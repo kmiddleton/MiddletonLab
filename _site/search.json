@@ -1,22 +1,43 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Code for most lab projects is available either on the lab GitHub page or my personal GitHub page."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "objectID": "software.html#analysis-of-biological-data-abd",
+    "href": "software.html#analysis-of-biological-data-abd",
+    "title": "Software",
+    "section": "Analysis of Biological Data (abd)",
+    "text": "Analysis of Biological Data (abd)\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter. This is an excellent textbook (now in its second edition, still remarkably inexpensive) for teaching advanced undergraduate and introductory graduate statistics. The new edition of this book has associated R code, mostly making this package redundant. But I still like having the datasets from the book handy. I use them for teaching and demos really often, like the distribution of counts of desert birds or hemoglobin levels in different populations.\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(DesertBirds, aes(count)) +\n  geom_histogram(bins = 30, fill = \"darkred\") +\n  labs(x = \"Count\", y = \"Number of Species\") +\n  cowplot::theme_cowplot()\n\n\n\n\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(Hemoglobin, aes(x = hemoglobin, y = relative.frequency)) +\n  geom_bar(stat = \"identity\", fill = \"darkred\") +\n  labs(x = \"Hemoglobin\", y = \"Relative Frequency\") +\n  facet_grid(group ~ .) +\n  cowplot::theme_cowplot()\n\n\n\n\n\nInstallation\nThe package can be installed via CRAN\n\ninstall.packages(\"abd\")\n\nor directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/abd\")\n\nWe have had a lot of dependency creep over the years, so the number of packages that get installed alongside abd can be quite large."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "software.html#johnson-neyman-technique-jnt",
+    "href": "software.html#johnson-neyman-technique-jnt",
+    "title": "Software",
+    "section": "Johnson-Neyman Technique (jnt)",
+    "text": "Johnson-Neyman Technique (jnt)\nThe Johnson-Neyman technique is used to determine the region of an analysis of covariance where the slopes are not significantly between the covariate. This allows the determination of bounds of a region of “equal” slope despite the presence of a “significant” slope (by whatever definition of “significant” you choose).\nWe used this approach in Lavin SR, Karasov WH, Ives AR, Middleton KM, Garland T Jr (2008) Morphometrics of the avian small intestine compared with that of nonflying mammals: A phylogenetic approach. Physiol Biochem Zool 81: 526-550.\n\nReferences\n\nJohnson PO and Neyman J (1936) Tests of certain linear hypotheses and their application to some educational problems. Statistical Research Memoirs 1: 57-93.\nHunka S and Leighton J (1997) Defining Johnson-Neyman regions of significance in three-covariate ANCOVA using Mathematica. Journal of Educational and Behavioral Statistics 22: 361-387.\nWhite CR (2003) The influence of foraging mode and arid adaptation on the basal metabolic rates of burrowing mammals. Physiol Biochem Zool 76: 122-134.\nWhite CR (2003) Allometric analysis beyond heterogenous regression slopes: Use of the Johnson-Neyman Technique in comparative biology. Physiol Biochem Zool 76: 135-140.\n\n\n\nDemo\n\nlibrary(jnt)\n\nLoading required package: smatr\n\nset.seed(1234)\n\nn <- 50\n\nx1 <- rnorm(n)\ny1 <- x1 + rnorm(n, sd = 0.2)\n\nx2 <- rnorm(n)\ny2 <- 1.25 * x2 + rnorm(n, sd = 0.2)\n\ndf1 <- data.frame(x = x1, y = y1)\ndf2 <- data.frame(x = x2, y = y2)\n\n(jnt.out <- jnt(df1, df2))\n\nFitting with OLS\n\n\nAssuming x variable is column 1, and y is column 2.\n\n\n\nJohnson-Neyman Technique\n\nAlpha =  0.05 \n\nData 1:\n    Slope        0.9853 \n    Intercept    0.02126 \n\nData 2:\n    Slope        1.182 \n    Intercept    0.01386 \n\nRegion of non-significant slope difference\n    Lower: -0.5258 \n    Upper: 0.8701 \n\nplot(jnt.out)\n\n`geom_smooth()` using formula 'y ~ x'\n\n\n\n\n\n\n\nInstallation\njnt can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/jnt\")"
+  },
+  {
+    "objectID": "software.html#ternary-plots-for-3d-data-muscleternary",
+    "href": "software.html#ternary-plots-for-3d-data-muscleternary",
+    "title": "Software",
+    "section": "Ternary plots for 3D data (MuscleTernary)",
+    "text": "Ternary plots for 3D data (MuscleTernary)\n\nInstallation\nMuscleTernary can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/MuscleTernary\")"
+  },
+  {
+    "objectID": "software.html#binning-for-mouse-wheel-activity-data-binning",
+    "href": "software.html#binning-for-mouse-wheel-activity-data-binning",
+    "title": "Software",
+    "section": "Binning for mouse wheel activity data (binning)",
+    "text": "Binning for mouse wheel activity data (binning)\n\nInstallation\nbinning can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/binning\")"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
   },
@@ -28,24 +49,31 @@
     "text": "Our research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
+    "objectID": "software.html#abd-analysis-of-biological-data",
+    "href": "software.html#abd-analysis-of-biological-data",
     "title": "Software",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "section": "abd: Analysis of Biological Data",
+    "text": "abd: Analysis of Biological Data\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter. This is an excellent textbook (now in its second edition, still remarkably inexpensive) for teaching advanced undergraduate and introductory graduate statistics. The new edition of this book has associated R code, mostly making this package redundant. But I still like having the datasets from the book handy. I use them for teaching and demos really often, like the distribution of counts of desert birds or hemoglobin levels in different populations.\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(DesertBirds, aes(count)) +\n  geom_histogram(bins = 30, fill = \"darkred\") +\n  labs(x = \"Count\", y = \"Number of Species\") +\n  cowplot::theme_cowplot()\n\n\n\n\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(Hemoglobin, aes(x = hemoglobin, y = relative.frequency)) +\n  geom_bar(stat = \"identity\", fill = \"darkred\") +\n  labs(x = \"Hemoglobin\", y = \"Relative Frequency\") +\n  facet_grid(group ~ .) +\n  cowplot::theme_cowplot()\n\n\n\n\n\nInstallation\nThe package can be installed via CRAN\n\ninstall.packages(\"abd\")\n\nor directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/abd\")\n\nWe have had a lot of dependency creep over the years, so the number of packages that get installed alongside abd can be quite large."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "objectID": "software.html#jnt-johnson-neyman-technique",
+    "href": "software.html#jnt-johnson-neyman-technique",
+    "title": "Software",
+    "section": "jnt: Johnson-Neyman Technique",
+    "text": "jnt: Johnson-Neyman Technique\nThe Johnson-Neyman technique is used to determine the region of an analysis of covariance where the slopes are not significantly between the covariate. This allows the determination of bounds of a region of “equal” slope despite the presence of a “significant” slope (by whatever definition of “significant” you choose).\nWe used this approach in Lavin SR, Karasov WH, Ives AR, Middleton KM, Garland T Jr (2008) Morphometrics of the avian small intestine compared with that of nonflying mammals: A phylogenetic approach. Physiol Biochem Zool 81: 526-550.\n\nReferences\n\nJohnson PO and Neyman J (1936) Tests of certain linear hypotheses and their application to some educational problems. Statistical Research Memoirs 1: 57-93.\nHunka S and Leighton J (1997) Defining Johnson-Neyman regions of significance in three-covariate ANCOVA using Mathematica. Journal of Educational and Behavioral Statistics 22: 361-387.\nWhite CR (2003) The influence of foraging mode and arid adaptation on the basal metabolic rates of burrowing mammals. Physiol Biochem Zool 76: 122-134.\nWhite CR (2003) Allometric analysis beyond heterogenous regression slopes: Use of the Johnson-Neyman Technique in comparative biology. Physiol Biochem Zool 76: 135-140.\n\n\n\nDemo\n\nlibrary(jnt)\n\nLoading required package: smatr\n\nset.seed(1234)\n\nn <- 50\n\nx1 <- rnorm(n)\ny1 <- x1 + rnorm(n, sd = 0.2)\n\nx2 <- rnorm(n)\ny2 <- 1.25 * x2 + rnorm(n, sd = 0.2)\n\ndf1 <- data.frame(x = x1, y = y1)\ndf2 <- data.frame(x = x2, y = y2)\n\n(jnt.out <- jnt(df1, df2))\n\nFitting with OLS\n\n\nAssuming x variable is column 1, and y is column 2.\n\n\n\nJohnson-Neyman Technique\n\nAlpha =  0.05 \n\nData 1:\n    Slope        0.9853 \n    Intercept    0.02126 \n\nData 2:\n    Slope        1.182 \n    Intercept    0.01386 \n\nRegion of non-significant slope difference\n    Lower: -0.5258 \n    Upper: 0.8701 \n\nplot(jnt.out)\n\n`geom_smooth()` using formula 'y ~ x'\n\n\n\n\n\n\n\nInstallation\njnt can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/jnt\")"
+  },
+  {
+    "objectID": "software.html#muscleternary-ternary-plots-for-3d-data",
+    "href": "software.html#muscleternary-ternary-plots-for-3d-data",
+    "title": "Software",
+    "section": "MuscleTernary: Ternary plots for 3D data",
+    "text": "MuscleTernary: Ternary plots for 3D data\n\nInstallation\nMuscleTernary can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/MuscleTernary\")"
+  },
+  {
+    "objectID": "software.html#binning-binning-for-mouse-wheel-activity-data",
+    "href": "software.html#binning-binning-for-mouse-wheel-activity-data",
+    "title": "Software",
+    "section": "binning: Binning for mouse wheel activity data",
+    "text": "binning: Binning for mouse wheel activity data\n\nInstallation\nbinning can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/binning\")"
   }
 ]
