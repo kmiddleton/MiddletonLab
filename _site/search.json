@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Middleton Lab: University of Missouri",
+    "title": "Evolutionary Functional Morphology",
     "section": "",
-    "text": "Our research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms."
+    "text": "Our research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms.\nHere are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the projects page:"
   },
   {
     "objectID": "publications.html",
@@ -81,6 +81,20 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Bayesian inference\nFunctional morphology\nBiomechanics\nStatistical teaching\nElit egestas netus porta arcu taciti enim? Massa bibendum vivamus suspendisse per vitae leo urna imperdiet porttitor donec varius id porta habitasse vulputate nisl viverra penatibus.\nDolor risus nunc enim magnis pulvinar nibh aliquam sapien aenean! Tortor augue fames venenatis curae. Est lectus mollis litora per fermentum ullamcorper hendrerit nibh penatibus dapibus felis? Quis lobortis vivamus urna mi proin interdum. Ridiculus iaculis bibendum augue facilisi et ultrices mi ridiculus eros nascetur. Eleifend ut blandit tristique cum hendrerit sed morbi cursus lacinia sociosqu orci sagittis mi placerat nisl."
+  },
+  {
+    "objectID": "people.html#undergraduate-researchers",
+    "href": "people.html#undergraduate-researchers",
+    "title": "People",
+    "section": "Undergraduate Researchers",
+    "text": "Undergraduate Researchers"
+  },
+  {
+    "objectID": "people.html#lab-alumni",
+    "href": "people.html#lab-alumni",
+    "title": "People",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni"
   }
 ]

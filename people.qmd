@@ -2,8 +2,21 @@
 title: "People"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+::: {layout-ncol=2}
+### Kevin Middleton
+
+- Bayesian inference
+- Functional morphology
+- Biomechanics
+- Statistical teaching
+
+![](images/middleton.png){fig-alt="Photo of bicyclist"}
+:::
+
+`r lorem::ipsum(paragraphs = 2)`
+
+## Undergraduate Researchers
+
+## Lab Alumni
+
