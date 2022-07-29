@@ -25,7 +25,7 @@ format:
     theme: simplex
     fontsize: 1.1em
     linestretch: 1.7
-    css: stles.css
+    css: styles.css
     toc: true
 
 
