@@ -58,7 +58,7 @@ ul.task-list{list-style: none;}
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -75,9 +75,15 @@ ul.task-list{list-style: none;}
   <li class="nav-item">
     <a class="nav-link" href="./index.html">Home</a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./projects.html">Projects</a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">Projects</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
+        <li>
+    <a class="dropdown-item" href="./mice.html">
+ <span class="dropdown-text">Skeletal Morphology in High-Activity Mice</span></a>
   </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link active" href="./people.html" aria-current="page">People</a>
   </li>  
@@ -98,18 +104,45 @@ ul.task-list{list-style: none;}
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">People</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./mice.html" class="sidebar-item-text sidebar-link">Skeletal Morphology in High-Activity Mice</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#undergraduate-researchers" id="toc-undergraduate-researchers" class="nav-link active" data-scroll-target="#undergraduate-researchers">Undergraduate Researchers</a></li>
-  <li><a href="#lab-alumni" id="toc-lab-alumni" class="nav-link" data-scroll-target="#lab-alumni">Lab Alumni</a></li>
+  <li><a href="#kevin-middleton" id="toc-kevin-middleton" class="nav-link active" data-scroll-target="#kevin-middleton">Kevin Middleton</a>
+  <ul class="collapse">
+  <li><a href="#graduate-researchers" id="toc-graduate-researchers" class="nav-link" data-scroll-target="#graduate-researchers">Graduate Researchers</a></li>
+  <li><a href="#undergraduate-researchers" id="toc-undergraduate-researchers" class="nav-link" data-scroll-target="#undergraduate-researchers">Undergraduate Researchers</a></li>
+  </ul></li>
+  <li><a href="#lab-alumni" id="toc-lab-alumni" class="nav-link" data-scroll-target="#lab-alumni">Lab Alumni</a>
+  <ul class="collapse">
+  <li><a href="#graduate-researchers-1" id="toc-graduate-researchers-1" class="nav-link" data-scroll-target="#graduate-researchers-1">Graduate Researchers</a></li>
+  <li><a href="#undergraduate-researchers-1" id="toc-undergraduate-researchers-1" class="nav-link" data-scroll-target="#undergraduate-researchers-1">Undergraduate Researchers</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -118,7 +151,7 @@ ul.task-list{list-style: none;}
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">People</h1>
+<h1 class="title d-none d-lg-block">People</h1>
 </div>
 
 
@@ -132,31 +165,257 @@ ul.task-list{list-style: none;}
 
 </header>
 
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<script src="https://kit.fontawesome.com/25264fd477.js" crossorigin="anonymous"></script>
+<section id="kevin-middleton" class="level2">
+<h2 class="anchored" data-anchor-id="kevin-middleton">Kevin Middleton</h2>
+<p><a href="mailto:middletonk@missouri.edu"><i class="fa-solid fa-envelope fa-2x"></i></a> <a href="https://scholar.google.com/citations?user=Ziha7x8AAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a> <a href="https://orcid.org/0000-0003-4704-1064"><i class="ai ai-orcid-square ai-2x"></i></a> <a href="https://www.ncbi.nlm.nih.gov/myncbi/kevin.middleton.1/bibliography/public/"><i class="ai ai-pubmed-square ai-2x"></i></a> <a href="https://github.com/Middleton-Lab"><i class="fa-brands fa-square-github fa-2x"></i></a> <a href="https://github.com/kmiddleton"><i class="fa-brands fa-github-alt fa-2x"></i></a> <a href="https://osf.io/fbh2k/"><i class="ai ai-osf-square ai-2x"></i></a></p>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
-<section id="kevin-middleton" class="level3 quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<h3 class="anchored" data-anchor-id="kevin-middleton">Kevin Middleton</h3>
-<ul>
-<li>Bayesian inference</li>
-<li>Functional morphology</li>
-<li>Biomechanics</li>
-<li>Statistical teaching</li>
-</ul>
-</section>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="images/middleton.png" class="img-fluid" alt="Photo of bicyclist"></p>
+<p>I am an Associate Professor in the <a href="https://biology.missouri.edu/">MU Division of Biological Sciences</a>. My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I’m an active member of the informal <a href="https://elizabethking.org/dataphiles/">DataPhiles</a> discussion group.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/middleton.png" class="img-fluid" alt="Photo of bicyclist wearing winter clothing."></p>
 </div>
 </div>
 </div>
-<p>Elit egestas netus porta arcu taciti enim? Massa bibendum vivamus suspendisse per vitae leo urna imperdiet porttitor donec varius id porta habitasse vulputate nisl viverra penatibus.</p>
-<p>Dolor risus nunc enim magnis pulvinar nibh aliquam sapien aenean! Tortor augue fames venenatis curae. Est lectus mollis litora per fermentum ullamcorper hendrerit nibh penatibus dapibus felis? Quis lobortis vivamus urna mi proin interdum. Ridiculus iaculis bibendum augue facilisi et ultrices mi ridiculus eros nascetur. Eleifend ut blandit tristique cum hendrerit sed morbi cursus lacinia sociosqu orci sagittis mi placerat nisl.</p>
-<section id="undergraduate-researchers" class="level2">
-<h2 class="anchored" data-anchor-id="undergraduate-researchers">Undergraduate Researchers</h2>
+<p>Previously I was a faculty member in the <a href="https://medicine.missouri.edu/departments/pathology-and-anatomical-sciences">Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine</a>. From 2007-2012, I was in the <a href="http://biology.csusb.edu/">Department of Biology at California State University, San Bernardino</a>. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the <a href="http://www.brown.edu/academics/ecology-and-evolutionary-biology/">Department of Ecology and Evolutionary Biology at Brown University</a>.</p>
+<p>If you want to read about bird foot evolution, here’s a link to my dissertation: <a href="http://www.worldcat.org/title/morphology-evolution-and-function-of-the-avian-hallux/oclc/54004056">Morphology, evolution, and function of the avian hallux</a>.</p>
+<section id="graduate-researchers" class="level3">
+<h3 class="anchored" data-anchor-id="graduate-researchers">Graduate Researchers</h3>
+<div class="callout-note callout callout-style-default no-icon callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Interested in graduate studies?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you an interested in graduate study…</p>
+</div>
+</div>
+</section>
+<section id="undergraduate-researchers" class="level3">
+<h3 class="anchored" data-anchor-id="undergraduate-researchers">Undergraduate Researchers</h3>
+<section id="adam-albright" class="level4">
+<h4 class="anchored" data-anchor-id="adam-albright">Adam Albright</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Mechanisms of insect flight, Imaging and CT scanning, Genetics</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/albright.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="josh-fajardo" class="level4">
+<h4 class="anchored" data-anchor-id="josh-fajardo">Josh Fajardo</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Locomotor biomechanics, machine learning, developing tools for studying mouse locomotion</li>
+<li>Biological Sciences Major</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/fajardo.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="maddy-lachance" class="level4">
+<h4 class="anchored" data-anchor-id="maddy-lachance">Maddy LaChance</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Cranial morphology in mice, Geometric morphometrics</li>
+<li>MU Cherng Summer Scholar</li>
+<li>University of Missouri, 2022</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/lachance.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+<div class="callout-note callout callout-style-default no-icon callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Interested in undergraduate research?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you an interested in undergraduate research, send me an email.</p>
+</div>
+</div>
+</section>
+</section>
 </section>
 <section id="lab-alumni" class="level2">
 <h2 class="anchored" data-anchor-id="lab-alumni">Lab Alumni</h2>
+<section id="graduate-researchers-1" class="level3">
+<h3 class="anchored" data-anchor-id="graduate-researchers-1">Graduate Researchers</h3>
+<section id="sarah-peacock" class="level4">
+<h4 class="anchored" data-anchor-id="sarah-peacock">Sarah Peacock</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Effects of light on bone phenotypes, Modern human variation, Human craniofacial morphology, Forensic anthropology</li>
+<li>PhD University of Missouri, 2019</li>
+<li>Currently an Assistant Teaching Professor at Northeastern University</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/peacock.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="amanda-smolinsky" class="level4">
+<h4 class="anchored" data-anchor-id="amanda-smolinsky">Amanda Smolinsky</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Skeletal evolution, Locomotor evolution in vertebrates, Effects of loading on bone phenotypes, Functional morphology</li>
+<li>PhD University of Missouri, 2018</li>
+<li>Currently an Assistant Professor at St.&nbsp;Norbert College</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/smolinsky.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="brittney-coats" class="level4">
+<h4 class="anchored" data-anchor-id="brittney-coats">Brittney Coats</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Energy regulation, Inflammatory role of adipose tissue</li>
+<li>MS CSU San Bernardino 2012</li>
+<li>PhD University of Chicago</li>
+<li>Currently at ITW David Speer Academy, Chicago, IL</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/coats.jpg" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="lauren-english" class="level4">
+<h4 class="anchored" data-anchor-id="lauren-english">Lauren English</h4>
+<p><a href="https://orcid.org/0000-0002-4440-1485"><i class="ai ai-orcid-square ai-2x"></i></a></p>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Morphometrics of pterosaurs</li>
+<li>MS CSU San Bernardino 2012</li>
+<li>PhD University of Texas at Austin</li>
+<li>Currently a museum scientist at University of California, Riverside</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="susan-lujan" class="level4">
+<h4 class="anchored" data-anchor-id="susan-lujan">Susan Lujan</h4>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<ul>
+<li>Effects of atmospheric oxygen on growth in alligators</li>
+<li>MS CSU San Bernardino 2012</li>
+<li>Currently a lecturer at CSU San Bernardino</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section id="undergraduate-researchers-1" class="level3">
+<h3 class="anchored" data-anchor-id="undergraduate-researchers-1">Undergraduate Researchers</h3>
+<section id="kayla-robinson-2021-2022" class="level4">
+<h4 class="anchored" data-anchor-id="kayla-robinson-2021-2022">Kayla Robinson (2021-2022)</h4>
+<ul>
+<li>MU DBS Honors Student</li>
+</ul>
+</section>
+<section id="alec-wilken-2016-2019" class="level4">
+<h4 class="anchored" data-anchor-id="alec-wilken-2016-2019">Alec Wilken (2016-2019)</h4>
+<ul>
+<li>Currently doctoral student at the University of Chicago</li>
+</ul>
+</section>
+<section id="caitlyn-smith-2016-2018" class="level4">
+<h4 class="anchored" data-anchor-id="caitlyn-smith-2016-2018">Caitlyn Smith (2016-2018)</h4>
+<ul>
+<li>Currently a student in the University of Missouri School of Medicine</li>
+</ul>
+</section>
+<section id="kendra-lewis-2018" class="level4">
+<h4 class="anchored" data-anchor-id="kendra-lewis-2018">Kendra Lewis (2018)</h4>
+<ul>
+<li>MU School of Medicine Summer Research Intern from Washington University in St.&nbsp;Louis</li>
+</ul>
+</section>
+<section id="rebecca-meyer-2016-2018" class="level4">
+<h4 class="anchored" data-anchor-id="rebecca-meyer-2016-2018">Rebecca Meyer (2016-2018)</h4>
+<ul>
+<li>Currently in medical school at the Kentucky College of Medicine</li>
+</ul>
+</section>
+<section id="nick-bira-2014-2018" class="level4">
+<h4 class="anchored" data-anchor-id="nick-bira-2014-2018">Nick Bira (2014-2018) <a href="https://sites.google.com/oregonstate.edu/nicholasbira/"><i class="fa-solid fa-globe"></i></a> <a href="https://scholar.google.com/citations?user=-J8YrdAAAAAJ&amp;hl=en"><i class="ai ai-google-scholar-square ai-1x"></i></a> <a href="https://www.linkedin.com/in/nicholasbira"><i class="fa-brands fa-linkedin"></i></a></h4>
+<ul>
+<li>C3 Hughes Research Fellow</li>
+<li>Completing doctoral studies at Oregon State University</li>
+</ul>
+</section>
+<section id="kyle-kirkland-2015" class="level4">
+<h4 class="anchored" data-anchor-id="kyle-kirkland-2015">Kyle Kirkland (2015)</h4>
+<ul>
+<li>MU School of Medicine Summer Research Intern from Michigan State University</li>
+</ul>
+</section>
+<section id="michael-sojka-2014-2015" class="level4">
+<h4 class="anchored" data-anchor-id="michael-sojka-2014-2015">Michael Sojka (2014-2015) <a href="https://www.michaelsojka.com/home"><i class="fa-solid fa-globe"></i></a> <a href="https://www.linkedin.com/in/sojkamichael/"><i class="fa-brands fa-linkedin"></i></a></h4>
+<ul>
+<li>C3 Hughes Research Fellow, MU School of Journalism</li>
+</ul>
+</section>
+<section id="tarrin-casey-md-2014" class="level4">
+<h4 class="anchored" data-anchor-id="tarrin-casey-md-2014">Tarrin Casey, MD (2014)</h4>
+<ul>
+<li>Graduate from the University of Missouri School of Medicine</li>
+</ul>
+</section>
+<section id="diana-salas-2013" class="level4">
+<h4 class="anchored" data-anchor-id="diana-salas-2013">Diana Salas (2013)</h4>
+<ul>
+<li>MU School of Medicine Summer Research Intern from Indiana University</li>
+</ul>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

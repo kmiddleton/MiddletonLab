@@ -14,6 +14,13 @@
     "text": "Statistical Inference and Data Analysis\nI have been teaching statistics and data analysis for life sciences periodically for the last few years. I’m a strong believer in demystifying analysis (particularly using R and/or python) and in teaching students reproducible research. Dr. Elizabeth King (MU Biological Sciences) and I co-developed a graduate course in quantitative methods for life sciences students. It is freely available online.\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter."
   },
   {
+    "objectID": "mice.html",
+    "href": "mice.html",
+    "title": "Skeletal Morphology in High-Activity Mice",
+    "section": "",
+    "text": "The Garland Lab has been artificially selecting mice for high levels of voluntary wheel running for more than 60 generations. These “high-runner” mice can run more than 25 km in one night, which is taxing to most physiological systems. In the lab, we are particularly interested in the effects (both separate and combined) of exercise and artificial selection on skeletal form, growth, physiology, and function.\n\nInbred High Activity Mini-Muscle Mice\nA major project in the lab is the establishment of an inbred strain of high-activity mice that exhibit the mini-muscle phenotype. This project was begun in 2007. As of Fall 2014, we are over 20 generations into inbreeding and can now officially say that the strain is inbred.\n\n\n\nFigure 1: When standardized to body mass, mice with the mini-muscle phenotype (left) have significantly longer and thinner femora than randomly bred controls (right).\n\n\nThe strain of mice that results from the project, which will both exhibit the mini-muscle allele and have genes enabling them to run great distances are a potential model organism for human musculoskeletal diseases and disorders. For example, mice can be crossed with other strains of mice known to have high or low bone mass to dissect the complex interaction between muscle function and normal bone growth.\n\n\n\nFigure 2: Comparison of mini-muscle (left) and wild-type (right) phenotype triceps surae muscle. The mini-muscle is about 50% less massive. (Photo courtesy of Mark Chappell)\n\n\nFuture experiments may include physiological measurements such as maximal oxygen consumption during strenuous exercise. High-runner mice generally have higher oxygen consumption, but this varies depending of the presence of the mini-muscle allele. Additionally, inbreeding may affect the physiological capacity of mice, so comparisons between the mice described in this experiment and “regular” high-runner mice will provide insights into the complex regulation of physiology. Research in the lab also concerns differences in bone shape and materials between mini-muscle mice and both high-runner mice and “standard” strains of lab mice.\nComparisons of shape and breaking strength with other types of mice will help us understand how genetics control the formation and, ultimately, function of the skeleton. In humans, for instance, it has been shown that certain bone shapes are more prone to fracture, and that these shape differences are genetically determined. By studying the same relationship in a model organism, in which we can have much greater experimental control, we will be able to better understand human biology."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
@@ -21,11 +28,11 @@
     "text": "1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "projects.html#past-projects",
+    "href": "projects.html#past-projects",
     "title": "Projects",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "section": "Past Projects",
+    "text": "Past Projects\n\nOxic gators\n\n\nLimb structure\n\n\nFeathers"
   },
   {
     "objectID": "index.html",
@@ -77,24 +84,17 @@
     "text": "binning: Binning for mouse wheel activity data\n\nInstallation\nbinning can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/binning\")"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
+    "objectID": "people.html#kevin-middleton",
+    "href": "people.html#kevin-middleton",
     "title": "People",
-    "section": "",
-    "text": "Bayesian inference\nFunctional morphology\nBiomechanics\nStatistical teaching\nElit egestas netus porta arcu taciti enim? Massa bibendum vivamus suspendisse per vitae leo urna imperdiet porttitor donec varius id porta habitasse vulputate nisl viverra penatibus.\nDolor risus nunc enim magnis pulvinar nibh aliquam sapien aenean! Tortor augue fames venenatis curae. Est lectus mollis litora per fermentum ullamcorper hendrerit nibh penatibus dapibus felis? Quis lobortis vivamus urna mi proin interdum. Ridiculus iaculis bibendum augue facilisi et ultrices mi ridiculus eros nascetur. Eleifend ut blandit tristique cum hendrerit sed morbi cursus lacinia sociosqu orci sagittis mi placerat nisl."
-  },
-  {
-    "objectID": "people.html#undergraduate-researchers",
-    "href": "people.html#undergraduate-researchers",
-    "title": "People",
-    "section": "Undergraduate Researchers",
-    "text": "Undergraduate Researchers"
+    "section": "Kevin Middleton",
+    "text": "Kevin Middleton\n      \n\n\n\nI am an Associate Professor in the MU Division of Biological Sciences. My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I’m an active member of the informal DataPhiles discussion group.\n\n\n\n\n\n\nPreviously I was a faculty member in the Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine. From 2007-2012, I was in the Department of Biology at California State University, San Bernardino. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the Department of Ecology and Evolutionary Biology at Brown University.\nIf you want to read about bird foot evolution, here’s a link to my dissertation: Morphology, evolution, and function of the avian hallux.\n\nGraduate Researchers\n\n\n\n\n\n\nInterested in graduate studies?\n\n\n\nIf you an interested in graduate study…\n\n\n\n\nUndergraduate Researchers\n\nAdam Albright\n\n\n\n\nMechanisms of insect flight, Imaging and CT scanning, Genetics\n\n\n\n\n\n\n\n\n\nJosh Fajardo\n\n\n\n\nLocomotor biomechanics, machine learning, developing tools for studying mouse locomotion\nBiological Sciences Major\n\n\n\n\n\n\n\n\n\nMaddy LaChance\n\n\n\n\nCranial morphology in mice, Geometric morphometrics\nMU Cherng Summer Scholar\nUniversity of Missouri, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterested in undergraduate research?\n\n\n\nIf you an interested in undergraduate research, send me an email."
   },
   {
     "objectID": "people.html#lab-alumni",
     "href": "people.html#lab-alumni",
     "title": "People",
     "section": "Lab Alumni",
-    "text": "Lab Alumni"
+    "text": "Lab Alumni\n\nGraduate Researchers\n\nSarah Peacock\n\n\n\n\nEffects of light on bone phenotypes, Modern human variation, Human craniofacial morphology, Forensic anthropology\nPhD University of Missouri, 2019\nCurrently an Assistant Teaching Professor at Northeastern University\n\n\n\n\n\n\n\n\n\nAmanda Smolinsky\n\n\n\n\nSkeletal evolution, Locomotor evolution in vertebrates, Effects of loading on bone phenotypes, Functional morphology\nPhD University of Missouri, 2018\nCurrently an Assistant Professor at St. Norbert College\n\n\n\n\n\n\n\n\n\nBrittney Coats\n\n\n\n\nEnergy regulation, Inflammatory role of adipose tissue\nMS CSU San Bernardino 2012\nPhD University of Chicago\nCurrently at ITW David Speer Academy, Chicago, IL\n\n\n\n\n\n\n\n\n\nLauren English\n\n\n\n\n\nMorphometrics of pterosaurs\nMS CSU San Bernardino 2012\nPhD University of Texas at Austin\nCurrently a museum scientist at University of California, Riverside\n\n\n\n\n\n\nSusan Lujan\n\n\n\n\nEffects of atmospheric oxygen on growth in alligators\nMS CSU San Bernardino 2012\nCurrently a lecturer at CSU San Bernardino\n\n\n\n\n\n\n\nUndergraduate Researchers\n\nKayla Robinson (2021-2022)\n\nMU DBS Honors Student\n\n\n\nAlec Wilken (2016-2019)\n\nCurrently doctoral student at the University of Chicago\n\n\n\nCaitlyn Smith (2016-2018)\n\nCurrently a student in the University of Missouri School of Medicine\n\n\n\nKendra Lewis (2018)\n\nMU School of Medicine Summer Research Intern from Washington University in St. Louis\n\n\n\nRebecca Meyer (2016-2018)\n\nCurrently in medical school at the Kentucky College of Medicine\n\n\n\nNick Bira (2014-2018)   \n\nC3 Hughes Research Fellow\nCompleting doctoral studies at Oregon State University\n\n\n\nKyle Kirkland (2015)\n\nMU School of Medicine Summer Research Intern from Michigan State University\n\n\n\nMichael Sojka (2014-2015)  \n\nC3 Hughes Research Fellow, MU School of Journalism\n\n\n\nTarrin Casey, MD (2014)\n\nGraduate from the University of Missouri School of Medicine\n\n\n\nDiana Salas (2013)\n\nMU School of Medicine Summer Research Intern from Indiana University"
   }
 ]

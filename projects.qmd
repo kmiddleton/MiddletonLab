@@ -2,8 +2,21 @@
 title: "Projects"
 ---
 
-About this site
+## Current Projects
 
-```{r}
-1 + 1
-```
+### Craniofacial Growth
+
+### Biomechanics and Evolution of the Archosaur Head
+
+### Tools for studying mouse locomotion
+
+---
+
+## Past Projects
+
+### Oxic gators
+
+### Limb structure
+
+### Feathers
+

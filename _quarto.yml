@@ -6,19 +6,27 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: Projects
+        text: "Home"
+      - sidebar:projects
       - href: people.qmd
-        text: People
+        text: "People"
       - href: publications.qmd
-        text: Publications
+        text: "Publications"
       - href: news.qmd
-        text: News
+        text: "News"
       - href: teaching.qmd
-        text: Teaching
+        text: "Teaching"
       - href: software.qmd
-        text: Software
+        text: "Software"
+
+  sidebar:
+    - id: projects
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+        - mice.qmd
 
 format:
   html:
