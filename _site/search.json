@@ -14,39 +14,158 @@
     "text": "Statistical Inference and Data Analysis\nI have been teaching statistics and data analysis for life sciences periodically for the last few years. I’m a strong believer in demystifying analysis (particularly using R and/or python) and in teaching students reproducible research. Dr. Elizabeth King (MU Biological Sciences) and I co-developed a graduate course in quantitative methods for life sciences students. It is freely available online.\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter."
   },
   {
-    "objectID": "mice.html",
-    "href": "mice.html",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Areas",
+    "section": "",
+    "text": "For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is is important for planning treatment.\n\n\n\n\n\n\nLearn more about craniofacial growth"
+  },
+  {
+    "objectID": "research.html#biomechanics-and-evolution-of-the-archosaur-head",
+    "href": "research.html#biomechanics-and-evolution-of-the-archosaur-head",
+    "title": "Research Areas",
+    "section": "Biomechanics and Evolution of the Archosaur Head",
+    "text": "Biomechanics and Evolution of the Archosaur Head\n\n\n\nIn collaboration with Casey Holliday (University of Missouri), we are studying the evolution of cranial kinesis across the non-avian theropod dinosaur to bird transition.\n\n\n\n\n\n\nLearn more about archosaur heads"
+  },
+  {
+    "objectID": "research.html#tools-for-studying-mouse-locomotion",
+    "href": "research.html#tools-for-studying-mouse-locomotion",
+    "title": "Research Areas",
+    "section": "Tools for studying mouse locomotion",
+    "text": "Tools for studying mouse locomotion\n\n\n\nMouse locomotion is commonly studied in models of human musculoskeletal disease and exercise physiology. Traditional methods for tracking joint movements for the study of locomotor kinematics is labor intensive and requires expensive hardware. We sought to speed up the process with Deep Learning using free software and consumer grade hardware.\n\n\n\n\n\n\nLearn more about mouse locomotion"
+  },
+  {
+    "objectID": "research.html#skeletal-morphology-in-high-activity-mice",
+    "href": "research.html#skeletal-morphology-in-high-activity-mice",
+    "title": "Research Areas",
+    "section": "Skeletal Morphology in High-Activity Mice",
+    "text": "Skeletal Morphology in High-Activity Mice\n\n\n\nAlthough “exercise builds strong bones”, genetics play a large part in bone’s response to exercise. I have worked toward an animal model to investigate the relative roles of these two key determinants of skeletal form.\n\n\n\n\n\n\nLearn more about high-activity mice"
+  },
+  {
+    "objectID": "projects/craniofacial.html",
+    "href": "projects/craniofacial.html",
+    "title": "Craniofacial Growth",
+    "section": "",
+    "text": "We are part of a large collaborative project led by Richard Sherwood (University of Missouri), which also includes Dana Duren (University of Missouri), Kieran McNulty (University of Minnesota), Heesoo Oh (University of the Pacific), and Manish Valiathan (Case Western Reserve University). The overall goal is to understand the patterns of human craniofacial growth and variation.\nWe work with a very large set of longitudinal cephalographs that make up the AAOF Craniofacial Growth Legacy Collection. These have been landmarked for dozens of anatomical features.\n\n\n\n\n\n\n\n\n\n\nWe use information about current and past morphology, estimates of skeletal maturity, and standard facial types to predict future growth.\n\nWe use Bayesian inference to fit a double logistic growth equation to each trait\n\\[\ntrait(age) = \\frac{a_1}{1 + \\exp(-b_1 (age - c_1))} +\n             \\frac{a_2}{1 + \\exp(-b_2 (age - c_2))}\n\\]\nwhich includes two periods of growth, prepubertal and a pubertal growth spurt. This approach works better than more commonly used (and easier to fit) polynomial or spline models.\n\n\n\n\n\n\n\n\n\n\nWe are developing Shiny apps to bring the results of these analyses to the clinical community.\nHere are some recent papers from this project:\n\n\nHardin, Anna M, Ryan P Knigge, Hee Soo Oh, Manish Valiathan, Dana L Duren, Kieran P McNulty, Kevin M Middleton, and Richard J Sherwood. 2022. “Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods.” Cleft Palate Craniofac. J. 59 (2): 230–38. https://doi.org/10.1177/10556656211002675.\n\n\nKnigge, Ryan P, Anna M Hardin, Kevin M Middleton, Kieran P McNulty, Heesoo Oh, Manish Valiathan, Dana L Duren, and Richard J Sherwood. 2022. “Craniofacial Growth and Morphology Among Intersecting Clinical Categories.” Anat. Rec., January. https://doi.org/10.1002/ar.24870.\n\n\nSherwood, Richard J, Hee Soo Oh, Manish Valiathan, Kieran P McNulty, Dana L Duren, Ryan P Knigge, Anna M Hardin, Christina L Holzhauser, and Kevin M Middleton. 2021. “Bayesian Approach to Longitudinal Craniofacial Growth: The Craniofacial Growth Consortium Study.” Anat. Rec. 304 (5): 991–1019. https://doi.org/10.1002/ar.24520."
+  },
+  {
+    "objectID": "projects/mice.html",
+    "href": "projects/mice.html",
     "title": "Skeletal Morphology in High-Activity Mice",
     "section": "",
     "text": "The Garland Lab has been artificially selecting mice for high levels of voluntary wheel running for more than 60 generations. These “high-runner” mice can run more than 25 km in one night, which is taxing to most physiological systems. In the lab, we are particularly interested in the effects (both separate and combined) of exercise and artificial selection on skeletal form, growth, physiology, and function.\n\nInbred High Activity Mini-Muscle Mice\nA major project in the lab is the establishment of an inbred strain of high-activity mice that exhibit the mini-muscle phenotype. This project was begun in 2007. As of Fall 2014, we are over 20 generations into inbreeding and can now officially say that the strain is inbred.\n\n\n\nFigure 1: When standardized to body mass, mice with the mini-muscle phenotype (left) have significantly longer and thinner femora than randomly bred controls (right).\n\n\nThe strain of mice that results from the project, which will both exhibit the mini-muscle allele and have genes enabling them to run great distances are a potential model organism for human musculoskeletal diseases and disorders. For example, mice can be crossed with other strains of mice known to have high or low bone mass to dissect the complex interaction between muscle function and normal bone growth.\n\n\n\nFigure 2: Comparison of mini-muscle (left) and wild-type (right) phenotype triceps surae muscle. The mini-muscle is about 50% less massive. (Photo courtesy of Mark Chappell)\n\n\nFuture experiments may include physiological measurements such as maximal oxygen consumption during strenuous exercise. High-runner mice generally have higher oxygen consumption, but this varies depending of the presence of the mini-muscle allele. Additionally, inbreeding may affect the physiological capacity of mice, so comparisons between the mice described in this experiment and “regular” high-runner mice will provide insights into the complex regulation of physiology. Research in the lab also concerns differences in bone shape and materials between mini-muscle mice and both high-runner mice and “standard” strains of lab mice.\nComparisons of shape and breaking strength with other types of mice will help us understand how genetics control the formation and, ultimately, function of the skeleton. In humans, for instance, it has been shown that certain bone shapes are more prone to fracture, and that these shape differences are genetically determined. By studying the same relationship in a model organism, in which we can have much greater experimental control, we will be able to better understand human biology."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "projects/archosaur.html",
+    "href": "projects/archosaur.html",
+    "title": "Biomechanics and Evolution of the Archosaur Head",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Cranial kinesis (movement among the bones of the skull, excepting the jaw) required a significant reorganization of skeletal tissues and was likely a major evolutionary factor in the highly diverse feeding apparatus and ultimately the diversification of modern birds. The goal of this project is to understand the biomechanical environment of the feeding system.\n\nComputational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. We are developing techniques to apply contrast-enhanced imaging to refine muscle force estimates and generate a complete picture of head function."
   },
   {
-    "objectID": "projects.html#past-projects",
-    "href": "projects.html#past-projects",
-    "title": "Projects",
-    "section": "Past Projects",
-    "text": "Past Projects\n\nOxic gators\n\n\nLimb structure\n\n\nFeathers"
+    "objectID": "projects/template.html",
+    "href": "projects/template.html",
+    "title": "template",
+    "section": "",
+    "text": "Figure 1: Figure legend"
+  },
+  {
+    "objectID": "projects/locomotion.html",
+    "href": "projects/locomotion.html",
+    "title": "Tools for studying mouse locomotion",
+    "section": "",
+    "text": "Although mice and rats are common animal models, much of the “state-of-the-art” involves footfall analysis. This used to be done with ink, but now it is automated. We aimed to bring 3d analysis of kinematics to small animals. Moreover, we wanted to use easily obtainable hardware.\nWe set up a pair of GoPro cameras at about 60° to one another and filmed mice walking freely down a walkway.\n\nWe used DeepLabCut trained on about 450 frames that were manually digitized. Following this, we auto-labeled ~40,000 frames (~480,000 points) from 148 locomotor trials. Movies were digitized separately and then calibrated to one another to give 3d coordinates.\n\nWe track points that define limb position and allow us quantify locomotor parameters (stride length, stance width, duty factor, etc.).\n\nWe end up with a full three-dimensional representation of the stride cycle.\n\nWe can then statistically compare kinematic variables. We have only manually digitized 1% of the frames, saving time (and tedious, error-prone digitizing)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Evolutionary Functional Morphology",
+    "title": "Evolutionary Functional Morphology (among other things)",
     "section": "",
     "text": "Our research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms.\nHere are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the projects page:"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Recent Publications",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. Anat Rec"
+  },
+  {
+    "objectID": "publications.html#using-ternary-plots-to-visualize-muscle-actions",
+    "href": "publications.html#using-ternary-plots-to-visualize-muscle-actions",
+    "title": "Recent Publications",
+    "section": "Using ternary plots to visualize muscle actions",
+    "text": "Using ternary plots to visualize muscle actions\n\n\n\nCost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. J Exp Biol 225"
+  },
+  {
+    "objectID": "publications.html#estimating-craniofacial-growth-cessation",
+    "href": "publications.html#estimating-craniofacial-growth-cessation",
+    "title": "Recent Publications",
+    "section": "Estimating craniofacial growth cessation",
+    "text": "Estimating craniofacial growth cessation\n\n\n\nHardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sherwood RJ. 2022. Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods. Cleft Palate Craniofac J 59:230–238."
+  },
+  {
+    "objectID": "publications.html#bayesian-approach-to-longitudinal-craniofacial-growth",
+    "href": "publications.html#bayesian-approach-to-longitudinal-craniofacial-growth",
+    "title": "Recent Publications",
+    "section": "Bayesian approach to longitudinal craniofacial growth",
+    "text": "Bayesian approach to longitudinal craniofacial growth\n\n\n\nSherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Holzhauser CL, Middleton KM. 2021. Bayesian approach to longitudinal craniofacial growth: the Craniofacial Growth Consortium Study. Anat Rec 304:991–1019."
+  },
+  {
+    "objectID": "publications.html#estimating-peak-height-velocity-in-individuals",
+    "href": "publications.html#estimating-peak-height-velocity-in-individuals",
+    "title": "Recent Publications",
+    "section": "Estimating peak height velocity in individuals",
+    "text": "Estimating peak height velocity in individuals\n\n\n\nBoeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height velocity in individuals: a comparison of statistical methods. Ann Hum Biol 47:434–445."
+  },
+  {
+    "objectID": "publications.html#palatal-biomechanics-in-tyrannosaurus",
+    "href": "publications.html#palatal-biomechanics-in-tyrannosaurus",
+    "title": "Recent Publications",
+    "section": "Palatal biomechanics in Tyrannosaurus",
+    "text": "Palatal biomechanics in Tyrannosaurus\n\n\n\nCost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 2020. Palatal Biomechanics and Its Significance for Cranial Kinesis in Tyrannosaurus rex. Anat Rec 303:999–1017."
+  },
+  {
+    "objectID": "publications.html#gigantism-in-saurischian-dinosaurs",
+    "href": "publications.html#gigantism-in-saurischian-dinosaurs",
+    "title": "Recent Publications",
+    "section": "Gigantism in saurischian dinosaurs",
+    "text": "Gigantism in saurischian dinosaurs\n\n\n\nTsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be a giant: Convergence and disparity in the hip joints of saurischian dinosaurs. Evolution 74:1654–1681."
+  },
+  {
+    "objectID": "publications.html#biomechanics-of-the-suspensorium-in-reptiles",
+    "href": "publications.html#biomechanics-of-the-suspensorium-in-reptiles",
+    "title": "Recent Publications",
+    "section": "Biomechanics of the suspensorium in reptiles",
+    "text": "Biomechanics of the suspensorium in reptiles\n\n\n\nWilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Connecting the chondrocranium: Biomechanics of the suspensorium in reptiles. Vertebrate Zoology 70:275–290."
+  },
+  {
+    "objectID": "publications.html#fertility-and-status-in-world-war-ii-refugees",
+    "href": "publications.html#fertility-and-status-in-world-war-ii-refugees",
+    "title": "Recent Publications",
+    "section": "Fertility and status in World War II refugees",
+    "text": "Fertility and status in World War II refugees\n\n\n\nLynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’Brien D, Loehr J. 2019. Integration involves a trade-off between fertility and status for World War II evacuees. Nat Hum Behav 3:337–345."
+  },
+  {
+    "objectID": "publications.html#diet-dependent-effects-on-lifespan-and-fecundity",
+    "href": "publications.html#diet-dependent-effects-on-lifespan-and-fecundity",
+    "title": "Recent Publications",
+    "section": "Diet-dependent effects on lifespan and fecundity",
+    "text": "Diet-dependent effects on lifespan and fecundity\n\n\n\nNg’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential of diet-dependent effects on lifespan and fecundity in a multi-parental population of Drosophila melanogaster. Heredity 122:582–594."
+  },
+  {
+    "objectID": "publications.html#d-muscle-architecture",
+    "href": "publications.html#d-muscle-architecture",
+    "title": "Recent Publications",
+    "section": "3D Muscle Architecture",
+    "text": "3D Muscle Architecture\n\n\n\nSullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architecture of the Pectoral Muscles of European Starling (Sturnus vulgaris). Integr Org Biol 1:oby010."
+  },
+  {
+    "objectID": "publications.html#cranial-kinesis-in-varanus-exanthematicus",
+    "href": "publications.html#cranial-kinesis-in-varanus-exanthematicus",
+    "title": "Recent Publications",
+    "section": "Cranial kinesis in Varanus exanthematicus",
+    "text": "Cranial kinesis in Varanus exanthematicus\n\n\n\nWilken AT, Middleton KM, Sellers KC, Cost IN, Holliday CM. 2019. The roles of joint tissues and jaw muscles in palatal biomechanics of the Savannah monitor (Varanus exanthematicus) and their significance for cranial kinesis. J Exp Biol 222:1–14."
   },
   {
     "objectID": "software.html",
@@ -88,7 +207,7 @@
     "href": "people.html#kevin-middleton",
     "title": "People",
     "section": "Kevin Middleton",
-    "text": "Kevin Middleton\n      \n\n\n\nI am an Associate Professor in the MU Division of Biological Sciences. My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I’m an active member of the informal DataPhiles discussion group.\n\n\n\n\n\n\nPreviously I was a faculty member in the Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine. From 2007-2012, I was in the Department of Biology at California State University, San Bernardino. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the Department of Ecology and Evolutionary Biology at Brown University.\nIf you want to read about bird foot evolution, here’s a link to my dissertation: Morphology, evolution, and function of the avian hallux.\n\nGraduate Researchers\n\n\n\n\n\n\nInterested in graduate studies?\n\n\n\nIf you an interested in graduate study…\n\n\n\n\nUndergraduate Researchers\n\nAdam Albright\n\n\n\n\nMechanisms of insect flight, Imaging and CT scanning, Genetics\n\n\n\n\n\n\n\n\n\nJosh Fajardo\n\n\n\n\nLocomotor biomechanics, machine learning, developing tools for studying mouse locomotion\nBiological Sciences Major\n\n\n\n\n\n\n\n\n\nMaddy LaChance\n\n\n\n\nCranial morphology in mice, Geometric morphometrics\nMU Cherng Summer Scholar\nUniversity of Missouri, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterested in undergraduate research?\n\n\n\nIf you an interested in undergraduate research, send me an email."
+    "text": "Kevin Middleton\n      \n\n\n\nI am an Associate Professor in the MU Division of Biological Sciences. My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I’m an active member of the informal DataPhiles discussion group.\n\n\n\n\n\n\nPreviously I was a faculty member in the Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine. From 2007-2012, I was in the Department of Biology at California State University, San Bernardino. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the Department of Ecology and Evolutionary Biology at Brown University.\nIf you want to read about bird foot evolution, here’s a link to my dissertation: Morphology, evolution, and function of the avian hallux.\n\nGraduate Researchers\n\n\n\n\n\n\nInterested in graduate studies?\n\n\n\nIf you an interested in graduate study in the Division of Biological Sciences, send me an email .\n\n\n\n\nUndergraduate Researchers\n\nAdam Albright\n\n\n\n\nMechanisms of insect flight, Imaging and CT scanning, Genetics\nBiological Sciences Major\n\n\n\n\n\n\n\n\n\nJosh Fajardo\n\n\n\n\nLocomotor biomechanics, machine learning, developing tools for studying mouse locomotion\nUniversity of Missouri, 2022\n\n\n\n\n\n\n\n\n\nMaddy LaChance\n\n\n\n\nCranial morphology in mice, Geometric morphometrics\nMU Cherng Summer Scholar\nUniversity of Missouri, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterested in undergraduate research?\n\n\n\nIf you an interested in undergraduate research, send me an email ."
   },
   {
     "objectID": "people.html#lab-alumni",

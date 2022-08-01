@@ -1,5 +1,5 @@
 ---
-title: "Evolutionary Functional Morphology"
+title: "Evolutionary Functional Morphology (among other things)"
 ---
 
 Our lab is in the [Division of Biological Sciences](https://biology.missouri.edu/) at the [University of Missouri](https://missouri.edu/).
@@ -8,4 +8,4 @@ Our research focuses on vertebrate musculoskeletal physiology, form, and functio
 
 Here are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the projects page:
 
-[![](images/research_overview.png){fig-alt="Image of research topics"}](projects.html)
+[![](images/research_overview.png){fig-alt="Image of research topics"}](research.html)

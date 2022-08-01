@@ -1,0 +1,20 @@
+---
+title: "Biomechanics and Evolution of the Archosaur Head"
+---
+
+In collaboration with Casey Holliday ([University of Missouri](http://hollidaylab.com/)), we are studying the evolution of cranial kinesis across the non-avian theropod dinosaur to bird transition. 
+
+Cranial kinesis (movement among the bones of the skull, excepting the
+jaw) required a significant reorganization of skeletal tissues and
+was likely a major evolutionary factor in the highly diverse feeding
+apparatus and ultimately the diversification of modern birds. The
+goal of this project is to understand the biomechanical environment of
+the feeding system.
+
+![](../images/dinobird1.jpg)
+
+Computational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. We are developing techniques to apply contrast-enhanced imaging to refine muscle force estimates and generate a complete picture of head function.
+
+![](../images/dinobird2.jpg)
+
+![](../images/dinobird3.png)

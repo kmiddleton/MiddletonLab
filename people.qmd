@@ -28,7 +28,7 @@ If you want to read about bird foot evolution, here's a link to my dissertation:
 
 ## Interested in graduate studies?
 
-If you an interested in graduate study...
+If you an interested in graduate study in the Division of Biological Sciences, send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:middletonk@missouri.edu).
 
 :::
 
@@ -40,6 +40,7 @@ If you an interested in graduate study...
 ::: {layout-ncol=2}
 
 - Mechanisms of insect flight, Imaging and CT scanning, Genetics
+- Biological Sciences Major
 
 ![](images/albright.png)
 :::
@@ -49,7 +50,7 @@ If you an interested in graduate study...
 ::: {layout-ncol=2}
 
 - Locomotor biomechanics, machine learning, developing tools for studying mouse locomotion
-- Biological Sciences Major
+- University of Missouri, 2022
 
 ![](images/fajardo.jpg)
 :::
@@ -69,7 +70,7 @@ If you an interested in graduate study...
 
 ## Interested in undergraduate research?
 
-If you an interested in undergraduate research, send me an email.
+If you an interested in undergraduate research, send me an email [<i class="fa-solid fa-envelope fa-1x"></i>](mailto:middletonk@missouri.edu).
 
 :::
 

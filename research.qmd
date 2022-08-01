@@ -1,0 +1,52 @@
+---
+title: "Research Areas"
+---
+
+## Craniofacial Growth
+
+::: {layout-ncol=2}
+
+For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is is important for planning treatment.
+
+![](images/radiograph.jpg)
+
+:::
+
+[Learn more about craniofacial growth](projects/craniofacial.html)
+
+## Biomechanics and Evolution of the Archosaur Head
+
+::: {layout-ncol=2}
+
+In collaboration with Casey Holliday ([University of Missouri](http://hollidaylab.com/)), we are studying the evolution of cranial kinesis across the non-avian theropod dinosaur to bird transition.
+
+![](images/parrot.jpg)
+
+:::
+
+[Learn more about archosaur heads](projects/archosaur.html)
+
+## Tools for studying mouse locomotion
+
+::: {layout-ncol=2}
+
+Mouse locomotion is commonly studied in models of human musculoskeletal disease and exercise physiology. Traditional methods for tracking joint movements for the study of locomotor kinematics is labor intensive and requires expensive hardware. We sought to speed up the process with Deep Learning using free software and consumer grade hardware.
+
+![](images/loco0.jpg)
+
+:::
+
+[Learn more about mouse locomotion](projects/locomotion.html)
+
+## Skeletal Morphology in High-Activity Mice
+
+::: {layout-ncol=2}
+
+Although "exercise builds strong bones", genetics play a large part in bone’s response to exercise. I have worked toward an animal model to investigate the relative roles of these two key determinants of skeletal form.
+
+![](images/mouse_bones.png)
+
+:::
+
+[Learn more about high-activity mice](projects/mice.html)
+

@@ -3,30 +3,25 @@ project:
 
 website:
   title: "Middleton Lab"
+  favicon: favico.ico
   navbar:
+    search: true
     left:
-      - href: index.qmd
-        text: "Home"
-      - sidebar:projects
-      - href: people.qmd
-        text: "People"
-      - href: publications.qmd
-        text: "Publications"
-      - href: news.qmd
-        text: "News"
-      - href: teaching.qmd
-        text: "Teaching"
-      - href: software.qmd
-        text: "Software"
-
-  sidebar:
-    - id: projects
-      title: "Projects"
-      style: "docked"
-      background: light
-      collapse-level: 2
-      contents:
-        - mice.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "People"
+        file: people.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "News"
+        file: news.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Software"
+        file: software.qmd
+      - text: "Publications"
+        file: publications.qmd
+        
 
 format:
   html:

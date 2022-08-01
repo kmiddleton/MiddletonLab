@@ -1,0 +1,60 @@
+---
+title: "Craniofacial Growth"
+bibliography: ../Paperpile.bib
+---
+
+::: {layout-ncol=2}
+
+For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is is important for planning treatment. We are seeking to estimate these quantities for a wide range of traits in two- and three-dimensional imaging.
+
+![](../images/radiograph.jpg)
+
+:::
+
+We are part of a large collaborative project led by [Richard Sherwood](https://medicine.missouri.edu/faculty/richard-sherwood-phd) (University of Missouri), which also includes [Dana Duren](https://medicine.missouri.edu/faculty/dana-duren-phd) (University of Missouri), [Kieran McNulty](https://cla.umn.edu/about/directory/profile/kmcnulty) (University of Minnesota), [Heesoo Oh](https://dental.pacific.edu/campus-directory/heesoo-oh) (University of the Pacific), and [Manish Valiathan](https://case.edu/dental/departments-programs/directory/manish-valiathan) (Case Western Reserve University). The overall goal is to understand the patterns of human craniofacial growth and variation.
+
+We work with a very large set of longitudinal cephalographs that make up the [AAOF Craniofacial Growth Legacy Collection](https://www.aaoflegacycollection.org/aaof_home.html). These have been landmarked for dozens of anatomical features.
+
+::: {layout-ncol=2}
+
+![](../images/ceph_lateral.png)
+
+![](../images/ceph_landmarks.png)
+
+:::
+
+
+We use information about current and past morphology, estimates of skeletal maturity, and standard facial types to predict future growth. 
+
+
+![](../images/cf_overview.png)
+
+We use Bayesian inference to fit a double logistic growth equation to each trait
+
+$$
+trait(age) = \frac{a_1}{1 + \exp(-b_1 (age - c_1))} +
+             \frac{a_2}{1 + \exp(-b_2 (age - c_2))}
+$$
+
+which includes two periods of growth, prepubertal and a pubertal growth spurt. This approach works better than more commonly used (and easier to fit) polynomial or spline models.
+
+::: {layout-ncol=2}
+
+![](../images/nb_growth.png)
+
+![](../images/nb_rate.png)
+
+:::
+
+We are developing [Shiny](https://shiny.rstudio.com/) apps to bring the results of these analyses to the clinical community.
+
+---
+nocite: |
+  @Sherwood2021-le, @Hardin2022-qr, @Knigge2022-sq
+---
+
+Here are some recent papers from this project:
+
+::: {#refs}
+:::
+

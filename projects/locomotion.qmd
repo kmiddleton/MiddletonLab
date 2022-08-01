@@ -1,0 +1,27 @@
+---
+title: "Tools for studying mouse locomotion"
+---
+
+A project that was initiated by undergraduate researcher [Nick Bira](../people.html#nick-bira-2014-2018) and picked up by [Josh Fajardo](../people.html#josh-fajardo) has focused on developing methods for more efficiently studying 3d mouse kinematics.
+
+Although mice and rats are common animal models, much of the "state-of-the-art" involves footfall analysis. This used to be done with ink, but now it is automated. We aimed to bring 3d analysis of kinematics to small animals. Moreover, we wanted to use easily obtainable hardware.
+
+We set up a pair of GoPro cameras at about 60° to one another and filmed mice walking freely down a walkway.
+
+![](../images/loco1.png)
+
+We used [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut) trained on about 450 frames that were manually digitized. Following this, we auto-labeled ~40,000 frames (~480,000 points) from 148 locomotor trials. Movies were digitized separately and then calibrated to one another to give 3d coordinates.
+
+![](../images/loco2.jpg) 
+
+We track points that define limb position and allow us quantify locomotor parameters (stride length, stance width, duty factor, etc.).
+
+![](../images/loco3.jpg)
+
+We end up with a full three-dimensional representation of the stride cycle.
+
+![](../images/loco4.jpg)
+
+We can then statistically compare kinematic variables. We have only manually digitized 1% of the frames, saving time (and tedious, error-prone digitizing).
+
+![](../images/loco5.jpg)

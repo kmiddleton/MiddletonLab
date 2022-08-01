@@ -1,0 +1,11 @@
+---
+title: "template"
+---
+
+Lorem
+
+::: {#fig-bone1}
+![](../images/mice_1.png)
+
+Figure legend
+:::
