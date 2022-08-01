@@ -6,6 +6,6 @@ Our lab is in the [Division of Biological Sciences](https://biology.missouri.edu
 
 Our research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms.
 
-Here are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the projects page:
+Here are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the research page:
 
 [![](images/research_overview.png){fig-alt="Image of research topics"}](research.html)
