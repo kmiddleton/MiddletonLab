@@ -1,3 +1,51 @@
 ---
 title: "News"
 ---
+
+## Congratulations, Sarah!
+
+2019-05-17
+
+Congratulations to [Dr. Sarah Peacock](people.html#sarah-peacock) on her recent doctoral dissertation defense and graduation from the University of Missouri.
+
+Sarah is starting a position as an Assistant Teaching Professor at Northeastern University in January, 2020.
+
+::: {layout-ncol=3}
+
+![](images/news/2019-05-17_peacock-defense.jpg)
+
+![](images/news/2019-05-17_peacock-grad2.jpg)
+
+![](images/news/2019-05-17_peacock-grad1.jpg)
+
+:::
+
+
+## Gold Chalk Award
+
+2019-04-24
+
+::: {layout-ncol=2}
+
+I was really honored to be a recipient of a 2019 [Gold Chalk Award](https://gpc.missouri.edu/services/gold-chalk/) in Natural and Mathematical Sciences for graduate teaching. I appreciate being nominated by the IA graduate students for this award.
+
+![](images/news/2019-04-24_middleton-gold-chalk.jpg)
+
+:::
+
+## Congratulations, Amanda!
+
+2018-12-14
+
+Congratulations to [Dr. Amanda Smolinsky](people.html#amanda-smolinsky) on her recent (August) doctoral dissertation defense and graduation from the University of Missouri. Amanda is a Postdoctoral Anatomy Fellow at Rocky Vista University.
+
+Her dissertation was titled "Plastic and evolved morphological responses of the hind limb skeleton to mechanical loading in mice".
+
+::: {layout-ncol=2}
+
+![](images/news/2018-12-14_smolinsky-defense.jpg)
+
+![](images/news/2018-12-14_smolinsky-grad.jpg)
+
+:::
+
