@@ -112,6 +112,34 @@
     "text": "Congratulations, Amanda!\n2018-12-14\nCongratulations to Dr. Amanda Smolinsky on her recent (August) doctoral dissertation defense and graduation from the University of Missouri. Amanda is a Postdoctoral Anatomy Fellow at Rocky Vista University.\nHer dissertation was titled “Plastic and evolved morphological responses of the hind limb skeleton to mechanical loading in mice”."
   },
   {
+    "objectID": "news.html#mu-life-sciences-week-2018",
+    "href": "news.html#mu-life-sciences-week-2018",
+    "title": "News",
+    "section": "MU Life Sciences Week 2018",
+    "text": "MU Life Sciences Week 2018\nSarah and Amanda both presented their doctoral research at the 2018 MU Life Sciences Week."
+  },
+  {
+    "objectID": "news.html#dinosaurs-and-cavemen-2018",
+    "href": "news.html#dinosaurs-and-cavemen-2018",
+    "title": "News",
+    "section": "Dinosaurs and Cavemen 2018",
+    "text": "Dinosaurs and Cavemen 2018\nThe 6th annual Dinosaurs and Cavemen Science Expo was, a always, a huge success."
+  },
+  {
+    "objectID": "news.html#mu-health-sciences-research-day-2017",
+    "href": "news.html#mu-health-sciences-research-day-2017",
+    "title": "News",
+    "section": "MU Health Sciences Research Day 2017",
+    "text": "MU Health Sciences Research Day 2017\nAmanda and Sarah both presented their doctoral research at the 2017 MU Health Sciences Research Day."
+  },
+  {
+    "objectID": "news.html#forthcoming-ajpa-paper",
+    "href": "news.html#forthcoming-ajpa-paper",
+    "title": "News",
+    "section": "Forthcoming AJPA paper",
+    "text": "Forthcoming AJPA paper\nSarah Peacock’s paper “Predicting the bending properties of long bones: insights from an experimental mouse model” was recently accepted for publication in the American Journal of Physical Anthropology. Congratulations Sarah, with coauthors Brittney Coats (David Speer Academy), Kyle Kirkland (Michigan State University), Corwin Tanner (Blivet Solutions), and Ted Garland, Jr. (UC Riverside).\n\n\n\nBone cross-sections\n\n\nIn this paper, we try a new approach for the analysis, Bayesian inference. We preferred this method because it was simpler and more direct that traditional frequestist inference, with the added benefit of being closer to the way that we actually conceptualize such analysis.\nWe were mainly interested in the differences between groups, which we were able to estimate directly from the posterior samples:\n\n\n\nDifferences of posterior distributions.\n\n\nSo we had to come up with a method for displaying these posterior summaries:\n\n\n\nPosterior summaries of differences."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Evolutionary Functional Morphology (among other things)",
