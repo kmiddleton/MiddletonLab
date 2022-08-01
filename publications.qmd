@@ -8,7 +8,7 @@ title: "Recent Publications"
 
 Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. [Anat Rec](http://dx.doi.org/10.1002/ar.24870)
 
-![](images/knigge-2022.png)
+![](images/pubs/knigge-2022.png)
 
 :::
 
@@ -18,7 +18,7 @@ Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, She
 
 Cost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. [J Exp Biol 225](http://dx.doi.org/10.1242/jeb.243216)
 
-![](images/cost-2022.png)
+![](images/pubs/cost-2022.png)
 
 :::
 
@@ -29,7 +29,7 @@ Cost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D an
 Hardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sherwood RJ. 2022. Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods. [Cleft Palate Craniofac J 59:230–238](http://dx.doi.org/10.1177/10556656211002675
 ).
 
-![](images/hardin-2022.png)
+![](images/pubs/hardin-2022.png)
 
 :::
 
@@ -39,7 +39,7 @@ Hardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sh
 
 Sherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Holzhauser CL, Middleton KM. 2021. Bayesian approach to longitudinal craniofacial growth: the Craniofacial Growth Consortium Study. [Anat Rec 304:991–1019](https://doi.org/10.1002/ar.24520).
 
-![](images/nb_growth.png)
+![](images/pubs/sherwood-2021.png)
 
 :::
 
@@ -49,7 +49,7 @@ Sherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Hol
 
 Boeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height velocity in individuals: a comparison of statistical methods. [Ann Hum Biol 47:434–445](https://doi.org/10.1080/03014460.2020.1763458).
 
-![](images/boeyer-2020.png)
+![](images/pubs/boeyer-2020.png)
 
 :::
 
@@ -60,7 +60,7 @@ Boeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height veloci
 Cost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 2020. Palatal Biomechanics and Its Significance for Cranial Kinesis in *Tyrannosaurus rex*. [Anat Rec 303:999–1017](https://doi.org/10.1002/ar.24219
 ).
 
-![](images/cost-2020.jpg)
+![](images/pubs/cost-2020.jpg)
 
 :::
 
@@ -70,7 +70,7 @@ Cost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 
 
 Tsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be a giant: Convergence and disparity in the hip joints of saurischian dinosaurs. [Evolution 74:1654–1681](http://dx.doi.org/10.1111/evo.14017).
 
-![](images/tsai-2020.png)
+![](images/pubs/tsai-2020.png)
 
 :::
 
@@ -80,7 +80,7 @@ Tsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be
 
 Wilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Connecting the chondrocranium: Biomechanics of the suspensorium in reptiles. [Vertebrate Zoology 70:275–290](http://dx.doi.org/10.26049/VZ70-3-2020-02).
 
-![](images/wilken-2020.png)
+![](images/pubs/wilken-2020.png)
 
 :::
 
@@ -90,7 +90,7 @@ Wilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Conne
 
 Lynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’Brien D, Loehr J. 2019. Integration involves a trade-off between fertility and status for World War II evacuees. [Nat Hum Behav 3:337–345](https://doi.org/10.1038/s41562-019-0542-5).
 
-![](images/lynch-2019.png)
+![](images/pubs/lynch-2019.png)
 
 :::
 
@@ -100,7 +100,7 @@ Lynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’
 
 Ng’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential of diet-dependent effects on lifespan and fecundity in a multi-parental population of *Drosophila melanogaster*. [Heredity 122:582–594](http://dx.doi.org/10.1038/s41437-018-0154-2).
 
-![](images/ngoma-2019.png)
+![](images/pubs/ngoma-2019.png)
 
 :::
 
@@ -110,7 +110,7 @@ Ng’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential o
 
 Sullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architecture of the Pectoral Muscles of European Starling (*Sturnus vulgaris*). [Integr Org Biol 1:oby010](http://dx.doi.org/10.1093/iob/oby010).
 
-![](images/sullivan-2019.png)
+![](images/pubs/sullivan-2019.png)
 
 :::
 
@@ -120,7 +120,7 @@ Sullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architectur
 
 Wilken AT, Middleton KM, Sellers KC, Cost IN, Holliday CM. 2019. The roles of joint tissues and jaw muscles in palatal biomechanics of the Savannah monitor (*Varanus exanthematicus*) and their significance for cranial kinesis. [J Exp Biol 222:1–14](https://doi.org/10.1242/jeb.201459).
 
-![](images/wilken-2019.png)
+![](images/pubs/wilken-2019.png)
 
 :::
 
