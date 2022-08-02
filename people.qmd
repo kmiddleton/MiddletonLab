@@ -6,7 +6,7 @@ title: "People"
 
 <script src="https://kit.fontawesome.com/25264fd477.js" crossorigin="anonymous"></script>
 
-## Kevin Middleton
+## Kevin Middleton (he/him)
 
 [<i class="fa-solid fa-envelope fa-2x"></i>](mailto:middletonk@missouri.edu) [<i class="ai ai-google-scholar-square ai-2x"></i>](https://scholar.google.com/citations?user=Ziha7x8AAAAJ) [<i class="ai ai-orcid-square ai-2x"></i>](https://orcid.org/0000-0003-4704-1064) [<i class="ai ai-pubmed-square ai-2x"></i>](https://www.ncbi.nlm.nih.gov/myncbi/kevin.middleton.1/bibliography/public/) [<i class="fa-brands fa-square-github fa-2x"></i>](https://github.com/Middleton-Lab) [<i class="fa-brands fa-github-alt fa-2x"></i>](https://github.com/kmiddleton) [<i class="ai ai-osf-square ai-2x"></i>](https://osf.io/fbh2k/)
 
