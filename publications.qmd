@@ -2,11 +2,13 @@
 title: "Recent Publications"
 ---
 
+Here are some recent publications from the lab.
+
 ## Craniofacial growth and morphology
 
 ::: {layout-ncol=2}
 
-Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. [Anat Rec](http://dx.doi.org/10.1002/ar.24870)
+Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. [Anat Rec 305(9): 2175-2206](http://dx.doi.org/10.1002/ar.24870)
 
 ![](images/pubs/knigge-2022.png)
 
@@ -16,7 +18,7 @@ Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, She
 
 ::: {layout-ncol=2}
 
-Cost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. [J Exp Biol 225](http://dx.doi.org/10.1242/jeb.243216)
+Cost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. [J Exp Biol 225 (Suppl_1): jeb243216.](http://dx.doi.org/10.1242/jeb.243216)
 
 ![](images/pubs/cost-2022.png)
 
