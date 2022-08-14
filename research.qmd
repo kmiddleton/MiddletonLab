@@ -6,7 +6,7 @@ title: "Research Areas"
 
 ::: {layout-ncol=2}
 
-For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is is important for planning treatment.
+For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is important for planning treatment.
 
 ![](images/radiograph.jpg)
 
