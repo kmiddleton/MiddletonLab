@@ -14,6 +14,18 @@ For orthodontic and craniofacial surgical interventions, estimation of the timin
 
 [Learn more about craniofacial growth](projects/craniofacial.html)
 
+## New Approaches to Muscle Architecture and Function
+
+::: {layout-ncol=2}
+
+To study the evolution of feeding, grasping, and locomotion, it is important to be able to accurately estimate muscle forces and their direction of action. In collaboration with Carol Ward and Casey Holliday (University of Missouri Department of Pathology and Anatomical Sciences), we are using contrast-enhanced CT imaging to explore the internal architecture of muscles in exceptional detail.
+
+![](images/gekko.png)
+
+:::
+
+[Learn more about muscle architecture](projects/muscle.html)
+
 ## Biomechanics and Evolution of the Archosaur Head
 
 ::: {layout-ncol=2}

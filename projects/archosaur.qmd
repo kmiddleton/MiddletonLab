@@ -13,8 +13,10 @@ the feeding system.
 
 ![](../images/dinobird1.jpg)
 
-Computational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. We are developing techniques to apply contrast-enhanced imaging to refine muscle force estimates and generate a complete picture of head function.
+Computational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. From a CT-scan, we generate a 3D model, convert to a finite element model and then "map" muscle attachments.
 
 ![](../images/dinobird2.jpg)
 
-![](../images/dinobird3.png)
+We use these muscle attachments combined with knowledge of muscle contractile properties to generate a 3D picture of the biomechanical environment of the head.
+
+![](../images/parrot.jpg)

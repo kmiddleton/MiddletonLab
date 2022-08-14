@@ -21,6 +21,13 @@
     "text": "For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is important for planning treatment.\n\n\n\n\n\n\nLearn more about craniofacial growth"
   },
   {
+    "objectID": "research.html#new-approaches-to-muscle-architecture-and-function",
+    "href": "research.html#new-approaches-to-muscle-architecture-and-function",
+    "title": "Research Areas",
+    "section": "New Approaches to Muscle Architecture and Function",
+    "text": "New Approaches to Muscle Architecture and Function\n\n\n\nTo study the evolution of feeding, grasping, and locomotion, it is important to be able to accurately estimate muscle forces and their direction of action. In collaboration with Carol Ward and Casey Holliday (University of Missouri Department of Pathology and Anatomical Sciences), we are using contrast-enhanced CT imaging to explore the internal architecture of muscles in exceptional detail.\n\n\n\n\n\n\nLearn more about muscle architecture"
+  },
+  {
     "objectID": "research.html#biomechanics-and-evolution-of-the-archosaur-head",
     "href": "research.html#biomechanics-and-evolution-of-the-archosaur-head",
     "title": "Research Areas",
@@ -60,7 +67,14 @@
     "href": "projects/archosaur.html",
     "title": "Biomechanics and Evolution of the Archosaur Head",
     "section": "",
-    "text": "Cranial kinesis (movement among the bones of the skull, excepting the jaw) required a significant reorganization of skeletal tissues and was likely a major evolutionary factor in the highly diverse feeding apparatus and ultimately the diversification of modern birds. The goal of this project is to understand the biomechanical environment of the feeding system.\n\nComputational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. We are developing techniques to apply contrast-enhanced imaging to refine muscle force estimates and generate a complete picture of head function."
+    "text": "Cranial kinesis (movement among the bones of the skull, excepting the jaw) required a significant reorganization of skeletal tissues and was likely a major evolutionary factor in the highly diverse feeding apparatus and ultimately the diversification of modern birds. The goal of this project is to understand the biomechanical environment of the feeding system.\n\nComputational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. From a CT-scan, we generate a 3D model, convert to a finite element model and then “map” muscle attachments.\n\nWe use these muscle attachments combined with knowledge of muscle contractile properties to generate a 3D picture of the biomechanical environment of the head."
+  },
+  {
+    "objectID": "projects/muscle.html",
+    "href": "projects/muscle.html",
+    "title": "New Approaches to Muscle Architecture and Function",
+    "section": "",
+    "text": "We use DICE-CT followed by fascicle tracking to generate a 3D model of whole muscles. We can then process the resulting data to estimate the individual and combined effects of muscle architecture on function."
   },
   {
     "objectID": "projects/template.html",
