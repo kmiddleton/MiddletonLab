@@ -19,7 +19,7 @@ Cho EO, Cowgill LW, Middleton KM, Blomquist GE, Savoldi F, Tsoi J, Bornstein MM.
 
 ::: {layout-ncol=2}
 
-Holliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lautenschlager S, Bader K, Brown MA, Colbert MW. 2022. New frontiers in imaging, anatomy, and mechanics of crocodylian jaw muscles. Anat Rec [Internet]. Available from: https://onlinelibrary.wiley.com/doi/10.1002/ar.25011
+Holliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lautenschlager S, Bader K, Brown MA, Colbert MW. 2022. New frontiers in imaging, anatomy, and mechanics of crocodylian jaw muscles. Anat Rec [Internet]. [Available online](https://onlinelibrary.wiley.com/doi/10.1002/ar.25011)
 
 ![](images/pubs/holliday-2022.png)
 
@@ -30,7 +30,7 @@ Holliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lauten
 
 ::: {layout-ncol=2}
 
-Sellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM. 2022. The effects of skull flattening on suchian jaw muscle evolution. Anat Rec [Internet]. Available from: http://dx.doi.org/10.1002/ar.24912
+Sellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM. 2022. The effects of skull flattening on suchian jaw muscle evolution. Anat Rec. [Available online](http://dx.doi.org/10.1002/ar.24912)
 
 ![](images/pubs/holliday-2022.png)
 
