@@ -4,6 +4,39 @@ title: "Recent Publications"
 
 Here are some recent publications from the lab.
 
+## Effects of climate on skeletal morphology in humans
+
+::: {layout-ncol=2}
+
+Cho EO, Cowgill LW, Middleton KM, Blomquist GE, Savoldi F, Tsoi J, Bornstein MM. 2022. The influence of climate and population structure on East Asian skeletal morphology. [J Hum Evol 173:103268](http://dx.doi.org/10.1016/j.jhevol.2022.103268).
+
+![](images/pubs/cho-2022.png)
+
+:::
+
+
+## Advances in imaging of crocodylian skulls
+
+::: {layout-ncol=2}
+
+Holliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lautenschlager S, Bader K, Brown MA, Colbert MW. 2022. New frontiers in imaging, anatomy, and mechanics of crocodylian jaw muscles. Anat Rec [Internet]. Available from: https://onlinelibrary.wiley.com/doi/10.1002/ar.25011
+
+![](images/pubs/holliday-2022.png)
+
+:::
+
+
+## Effects of skull flattening on jaw muscle evolution
+
+::: {layout-ncol=2}
+
+Sellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM. 2022. The effects of skull flattening on suchian jaw muscle evolution. Anat Rec [Internet]. Available from: http://dx.doi.org/10.1002/ar.24912
+
+![](images/pubs/holliday-2022.png)
+
+:::
+
+
 ## Craniofacial growth and morphology
 
 ::: {layout-ncol=2}
@@ -14,6 +47,7 @@ Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, She
 
 :::
 
+
 ## Using ternary plots to visualize muscle actions
 
 ::: {layout-ncol=2}
@@ -23,6 +57,7 @@ Cost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D an
 ![](images/pubs/cost-2022.png)
 
 :::
+
 
 ## Estimating craniofacial growth cessation
 
@@ -35,6 +70,7 @@ Hardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sh
 
 :::
 
+
 ## Bayesian approach to longitudinal craniofacial growth
 
 ::: {layout-ncol=2}
@@ -45,6 +81,7 @@ Sherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Hol
 
 :::
 
+
 ## Estimating peak height velocity in individuals
 
 ::: {layout-ncol=2}
@@ -54,6 +91,7 @@ Boeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height veloci
 ![](images/pubs/boeyer-2020.png)
 
 :::
+
 
 ## Palatal biomechanics in *Tyrannosaurus*
 
@@ -66,6 +104,7 @@ Cost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 
 
 :::
 
+
 ## Gigantism in saurischian dinosaurs
 
 ::: {layout-ncol=2}
@@ -75,6 +114,7 @@ Tsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be
 ![](images/pubs/tsai-2020.png)
 
 :::
+
 
 ## Biomechanics of the suspensorium in reptiles
 
@@ -86,6 +126,7 @@ Wilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Conne
 
 :::
 
+
 ## Fertility and status in World War II refugees
 
 ::: {layout-ncol=2}
@@ -95,6 +136,7 @@ Lynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’
 ![](images/pubs/lynch-2019.png)
 
 :::
+
 
 ## Diet-dependent effects on lifespan and fecundity
 
@@ -106,6 +148,7 @@ Ng’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential o
 
 :::
 
+
 ## 3D Muscle Architecture
 
 ::: {layout-ncol=2}
@@ -116,6 +159,7 @@ Sullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architectur
 
 :::
 
+
 ## Cranial kinesis in *Varanus exanthematicus*
 
 ::: {layout-ncol=2}
@@ -125,5 +169,3 @@ Wilken AT, Middleton KM, Sellers KC, Cost IN, Holliday CM. 2019. The roles of jo
 ![](images/pubs/wilken-2019.png)
 
 :::
-
-
