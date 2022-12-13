@@ -22,6 +22,17 @@ Previously I was a faculty member in the [Department of Pathology and Anatomical
 
 If you want to read about bird foot evolution, here's a link to my dissertation: [Morphology, evolution, and function of the avian hallux](http://www.worldcat.org/title/morphology-evolution-and-function-of-the-avian-hallux/oclc/54004056).
 
+I firmly believe in (a modified version of) [Federico Ardila's](http://math.sfsu.edu/federico/) [basic axioms](https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf):
+
+> Axiom 1. Quantitative biology potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.
+
+> Axiom 2. Everyone can have joyful, meaningful, and empowering quantitative biology experiences.
+
+> Axiom 3. Quantitative biology is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
+
+> Axiom 4. Every student deserves to be treated with dignity and respect.
+
+
 ### Graduate Researchers
 
 :::{.callout-note icon=false}
@@ -162,7 +173,7 @@ If you an interested in undergraduate research, send me an email [<i class="fa-s
 #### Nick Bira (2014-2018) [<i class="fa-solid fa-globe"></i>](https://sites.google.com/oregonstate.edu/nicholasbira/) [<i class="ai ai-google-scholar-square ai-1x"></i>](https://scholar.google.com/citations?user=-J8YrdAAAAAJ&hl=en) [<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/nicholasbira)
 
 - C3 Hughes Research Fellow
-- Completing doctoral studies at Oregon State University
+- Completed PhD at Oregon State University, 2022
 
 #### Kyle Kirkland (2015)
 

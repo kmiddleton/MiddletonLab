@@ -21,6 +21,8 @@ website:
         file: software.qmd
       - text: "Publications"
         file: publications.qmd
+      - text: "Values"
+        file: ride.qmd
         
 
 format:
