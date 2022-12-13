@@ -193,6 +193,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li><a href="#abd-analysis-of-biological-data" id="toc-abd-analysis-of-biological-data" class="nav-link active" data-scroll-target="#abd-analysis-of-biological-data"><code>abd</code>: Analysis of Biological Data</a>
   <ul class="collapse">
   <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
+  <li><a href="#abddata" id="toc-abddata" class="nav-link" data-scroll-target="#abddata"><code>abdData</code></a></li>
   </ul></li>
   <li><a href="#jnt-johnson-neyman-technique" id="toc-jnt-johnson-neyman-technique" class="nav-link" data-scroll-target="#jnt-johnson-neyman-technique"><code>jnt</code>: Johnson-Neyman Technique</a>
   <ul class="collapse">
@@ -235,6 +236,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 </div>
 <p>Code for most lab projects is available either on the <a href="https://github.com/Middleton-Lab">lab GitHub page</a> or <a href="https://github.com/kmiddleton">my personal GitHub page</a>.</p>
+<p>Here are some R packages that are potentially of use.</p>
 <section id="abd-analysis-of-biological-data" class="level2">
 <h2 class="anchored" data-anchor-id="abd-analysis-of-biological-data"><code>abd</code>: Analysis of Biological Data</h2>
 <p>Collaborating with Randall Pruim (Calvin College), I co-developed an R package (<a href="https://github.com/Middleton-Lab/abd"><code>abd</code></a>) to accompany the first edition of <a href="https://www.macmillanlearning.com/college/us/product/Analysis-of-Biological-Data/p/1936221489"><em>The Analysis of Biological Data</em></a> by Michael Whitlock and Dolph Schluter. This is an excellent textbook (now in its second edition, still remarkably inexpensive) for teaching advanced undergraduate and introductory graduate statistics. The new edition of this book has <a href="https://whitlockschluter.zoology.ubc.ca/">associated R code</a>, mostly making this package redundant. But I still like having the datasets from the book handy. I use them for teaching and demos really often, like the distribution of counts of desert birds or hemoglobin levels in different populations.</p>
@@ -272,6 +274,15 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/abd"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <p>We have had a lot of dependency creep over the years, so the number of packages that get installed alongside <code>abd</code> can be quite large.</p>
+</section>
+<section id="abddata" class="level3">
+<h3 class="anchored" data-anchor-id="abddata"><code>abdData</code></h3>
+<p>The <code>abd</code> package has quite a few dependencies resulting from its use of the <code>mosaic</code> package.</p>
+<p>The data from <code>abd</code> is arguably its most useful feature. A more streamlined version of <code>abd</code> with only the data is available via <a href="https://github.com/Middleton-Lab/abdData"><code>abdData</code></a>, which can be installed with</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/abdData"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p><a href="https://middleton-lab.github.io/abdData/index.html">The <code>abdData</code> user manual is available online.</a></p>
 <hr>
 </section>
 </section>
@@ -291,24 +302,24 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <section id="demo" class="level3">
 <h3 class="anchored" data-anchor-id="demo">Demo</h3>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(jnt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(jnt)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>Loading required package: smatr</code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">1234</span>)</span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">50</span></span>
-<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>x1 <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(n)</span>
-<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>y1 <span class="ot">&lt;-</span> x1 <span class="sc">+</span> <span class="fu">rnorm</span>(n, <span class="at">sd =</span> <span class="fl">0.2</span>)</span>
-<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>x2 <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(n)</span>
-<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>y2 <span class="ot">&lt;-</span> <span class="fl">1.25</span> <span class="sc">*</span> x2 <span class="sc">+</span> <span class="fu">rnorm</span>(n, <span class="at">sd =</span> <span class="fl">0.2</span>)</span>
-<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>df1 <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">x =</span> x1, <span class="at">y =</span> y1)</span>
-<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a>df2 <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">x =</span> x2, <span class="at">y =</span> y2)</span>
-<span id="cb7-13"><a href="#cb7-13" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb7-14"><a href="#cb7-14" aria-hidden="true" tabindex="-1"></a>(jnt.out <span class="ot">&lt;-</span> <span class="fu">jnt</span>(df1, df2))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">1234</span>)</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>n <span class="ot">&lt;-</span> <span class="dv">50</span></span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>x1 <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(n)</span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a>y1 <span class="ot">&lt;-</span> x1 <span class="sc">+</span> <span class="fu">rnorm</span>(n, <span class="at">sd =</span> <span class="fl">0.2</span>)</span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a>x2 <span class="ot">&lt;-</span> <span class="fu">rnorm</span>(n)</span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a>y2 <span class="ot">&lt;-</span> <span class="fl">1.25</span> <span class="sc">*</span> x2 <span class="sc">+</span> <span class="fu">rnorm</span>(n, <span class="at">sd =</span> <span class="fl">0.2</span>)</span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>df1 <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">x =</span> x1, <span class="at">y =</span> y1)</span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>df2 <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">x =</span> x2, <span class="at">y =</span> y2)</span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a>(jnt.out <span class="ot">&lt;-</span> <span class="fu">jnt</span>(df1, df2))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>Fitting with OLS</code></pre>
 </div>
@@ -333,12 +344,12 @@ Region of non-significant slope difference
     Lower: -0.5258 
     Upper: 0.8701 </code></pre>
 </div>
-<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(jnt.out)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(jnt.out)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>`geom_smooth()` using formula = 'y ~ x'</code></pre>
 </div>
 <div class="cell-output-display">
-<p><img src="software_files/figure-html/unnamed-chunk-6-1.png" class="img-fluid" width="672"></p>
+<p><img src="software_files/figure-html/unnamed-chunk-7-1.png" class="img-fluid" width="672"></p>
 </div>
 </div>
 </section>
@@ -346,7 +357,7 @@ Region of non-significant slope difference
 <h3 class="anchored" data-anchor-id="installation-1">Installation</h3>
 <p><code>jnt</code> can be installed directly from GitHub:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/jnt"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/jnt"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <hr>
 </section>
@@ -357,7 +368,7 @@ Region of non-significant slope difference
 <h3 class="anchored" data-anchor-id="installation-2">Installation</h3>
 <p><code>MuscleTernary</code> can be installed directly from GitHub:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/MuscleTernary"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/MuscleTernary"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <hr>
 </section>
@@ -368,7 +379,7 @@ Region of non-significant slope difference
 <h3 class="anchored" data-anchor-id="installation-3">Installation</h3>
 <p><code>binning</code> can be installed directly from GitHub:</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/binning"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>remotes<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"Middleton-Lab/binning"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 
 

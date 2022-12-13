@@ -5,7 +5,11 @@ title: "Software"
 ```{r, echo=FALSE, message=FALSE}
 ```
 
+
 Code for most lab projects is available either on the [lab GitHub page](https://github.com/Middleton-Lab) or [my personal GitHub page](https://github.com/kmiddleton).
+
+Here are some R packages that are potentially of use.
+
 
 ## `abd`: Analysis of Biological Data
 
@@ -46,6 +50,19 @@ remotes::install_github("Middleton-Lab/abd")
 ```
 
 We have had a lot of dependency creep over the years, so the number of packages that get installed alongside `abd` can be quite large.
+
+
+### `abdData`
+
+The `abd` package has quite a few dependencies resulting from its use of the `mosaic` package. 
+
+The data from `abd` is arguably its most useful feature. A more streamlined version of `abd` with only the data is available via [`abdData`](https://github.com/Middleton-Lab/abdData), which can be installed with
+
+```{r, eval=FALSE}
+remotes::install_github("Middleton-Lab/abdData")
+```
+
+[The `abdData` user manual is available online.](https://middleton-lab.github.io/abdData/index.html)
 
 <hr />
 
