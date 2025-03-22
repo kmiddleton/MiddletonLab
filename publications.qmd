@@ -4,6 +4,52 @@ title: "Recent Publications"
 
 Here are some recent publications from the lab.
 
+## Evolution of the avian skull
+
+::: {layout-ncol=2}
+
+Wilken, AT, KC Sellers, IN Cost, J Davis, KM Middleton, LM Witmer, and CM Holliday. 2025. Avian cranial kinesis is the result of increased encephalization during the origin of birds. [Proc. Natl. Acad. Sci. U. S. A. 122:e2411138122](https://www.pnas.org/doi/10.1073/pnas.2411138122).
+
+
+![](images/pubs/WilkenEA-2025.png)
+
+:::
+
+
+## Interobserver variation in musculoskeletal modeling
+
+::: {layout-ncol=2}
+
+Lagorio, AD, FR McGechie, MG Fields, J Fortner, E Mackereth, C Perez, AT Wilken, M Leal, CV Ward, KM Middleton, and CM Holliday. 2024. Computational approaches and observer variation in the 3D musculoskeletal modeling of the heads of Anolis. [Integr. Org. Biol. 6:obae009](https://academic.oup.com/iob/article/6/1/obae009/7633948).
+
+
+![](images/pubs/LagoriaEA-2024.png)
+
+:::
+
+
+## Genetic variants impacting thermal tolerance in *Drosophila*
+
+::: {layout-ncol=2}
+
+Williams-Simon, PA, C Oster, JA Moaton, R Ghidey, E Ng'oma, KM Middleton, and EG King. 2024. Naturally segregating genetic variants contribute to thermal tolerance in a *Drosophila melanogaster* model system. [Genetics, doi: 10.1093/genetics/iyae040](https://academic.oup.com/genetics/article/227/1/iyae040/7632166).
+
+![](images/pubs/WilliamsSimonEA-2024.png)
+
+:::
+
+
+## Using cross-sectional data to predict craniofacial growth
+
+::: {layout-ncol=2}
+
+Middleton, KM, DL Duren, KP McNulty, H Oh, M Valiathan, and RJ Sherwood. 2023. Cross-sectional data accurately model longitudinal growth in the craniofacial skeleton. [Sci. Rep. 13:19294](https://www.nature.com/articles/s41598-023-46018-x).
+
+![](images/pubs/MiddletonEA-2023.png)
+
+:::
+
+
 ## Effects of climate on skeletal morphology in humans
 
 ::: {layout-ncol=2}

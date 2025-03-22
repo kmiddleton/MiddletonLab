@@ -46,15 +46,27 @@ If you an interested in graduate study in the Division of Biological Sciences, s
 
 ### Undergraduate Researchers
 
+#### Gabriella Ramirez
+
+::: {layout-ncol=2}
+
+- Computer Science, MARC Fellow
+- Deep learning applications for the study of craniofacial growth
+
+![](images/ramirez.jpg)
+:::
+
+
 #### Adam Albright
 
 ::: {layout-ncol=2}
 
 - Mechanisms of insect flight, Imaging and CT scanning, Genetics
-- Biological Sciences Major
+- University of Missouri, 2023
 
 ![](images/albright.png)
 :::
+
 
 #### Josh Fajardo 
 
@@ -65,6 +77,7 @@ If you an interested in graduate study in the Division of Biological Sciences, s
 
 ![](images/fajardo.jpg)
 :::
+
 
 #### Maddy LaChance
 
@@ -78,6 +91,7 @@ If you an interested in graduate study in the Division of Biological Sciences, s
 :::
 
 :::{.callout-note icon=false}
+
 
 ## Interested in undergraduate research?
 
