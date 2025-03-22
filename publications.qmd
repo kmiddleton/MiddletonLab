@@ -23,7 +23,7 @@ Wilken, AT, KC Sellers, IN Cost, J Davis, KM Middleton, LM Witmer, and CM Hollid
 Lagorio, AD, FR McGechie, MG Fields, J Fortner, E Mackereth, C Perez, AT Wilken, M Leal, CV Ward, KM Middleton, and CM Holliday. 2024. Computational approaches and observer variation in the 3D musculoskeletal modeling of the heads of Anolis. [Integr. Org. Biol. 6:obae009](https://academic.oup.com/iob/article/6/1/obae009/7633948).
 
 
-![](images/pubs/LagoriaEA-2024.png)
+![](images/pubs/LagorioEA-2024.png)
 
 :::
 
