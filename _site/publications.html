@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.247">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Middleton Lab - Recent Publications</title>
+<title>Recent Publications – Middleton Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -46,7 +46,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -55,8 +61,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -68,53 +76,51 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Middleton Lab</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html">
- <span class="menu-text">People</span></a>
+    <a class="nav-link" href="./people.html"> 
+<span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./news.html">
- <span class="menu-text">News</span></a>
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html">
- <span class="menu-text">Teaching</span></a>
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./software.html">
- <span class="menu-text">Software</span></a>
+    <a class="nav-link" href="./software.html"> 
+<span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page">
- <span class="menu-text">Publications</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./ride.html">
- <span class="menu-text">Values</span></a>
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -127,7 +133,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#effects-of-climate-on-skeletal-morphology-in-humans" id="toc-effects-of-climate-on-skeletal-morphology-in-humans" class="nav-link active" data-scroll-target="#effects-of-climate-on-skeletal-morphology-in-humans">Effects of climate on skeletal morphology in humans</a></li>
+  <li><a href="#evolution-of-the-avian-skull" id="toc-evolution-of-the-avian-skull" class="nav-link active" data-scroll-target="#evolution-of-the-avian-skull">Evolution of the avian skull</a></li>
+  <li><a href="#interobserver-variation-in-musculoskeletal-modeling" id="toc-interobserver-variation-in-musculoskeletal-modeling" class="nav-link" data-scroll-target="#interobserver-variation-in-musculoskeletal-modeling">Interobserver variation in musculoskeletal modeling</a></li>
+  <li><a href="#genetic-variants-impacting-thermal-tolerance-in-drosophila" id="toc-genetic-variants-impacting-thermal-tolerance-in-drosophila" class="nav-link" data-scroll-target="#genetic-variants-impacting-thermal-tolerance-in-drosophila">Genetic variants impacting thermal tolerance in <em>Drosophila</em></a></li>
+  <li><a href="#using-cross-sectional-data-to-predict-craniofacial-growth" id="toc-using-cross-sectional-data-to-predict-craniofacial-growth" class="nav-link" data-scroll-target="#using-cross-sectional-data-to-predict-craniofacial-growth">Using cross-sectional data to predict craniofacial growth</a></li>
+  <li><a href="#effects-of-climate-on-skeletal-morphology-in-humans" id="toc-effects-of-climate-on-skeletal-morphology-in-humans" class="nav-link" data-scroll-target="#effects-of-climate-on-skeletal-morphology-in-humans">Effects of climate on skeletal morphology in humans</a></li>
   <li><a href="#advances-in-imaging-of-crocodylian-skulls" id="toc-advances-in-imaging-of-crocodylian-skulls" class="nav-link" data-scroll-target="#advances-in-imaging-of-crocodylian-skulls">Advances in imaging of crocodylian skulls</a></li>
   <li><a href="#effects-of-skull-flattening-on-jaw-muscle-evolution" id="toc-effects-of-skull-flattening-on-jaw-muscle-evolution" class="nav-link" data-scroll-target="#effects-of-skull-flattening-on-jaw-muscle-evolution">Effects of skull flattening on jaw muscle evolution</a></li>
   <li><a href="#craniofacial-growth-and-morphology" id="toc-craniofacial-growth-and-morphology" class="nav-link" data-scroll-target="#craniofacial-growth-and-morphology">Craniofacial growth and morphology</a></li>
@@ -163,14 +173,83 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
+
 <p>Here are some recent publications from the lab.</p>
+<section id="evolution-of-the-avian-skull" class="level2">
+<h2 class="anchored" data-anchor-id="evolution-of-the-avian-skull">Evolution of the avian skull</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>Wilken, AT, KC Sellers, IN Cost, J Davis, KM Middleton, LM Witmer, and CM Holliday. 2025. Avian cranial kinesis is the result of increased encephalization during the origin of birds. <a href="https://www.pnas.org/doi/10.1073/pnas.2411138122">Proc. Natl. Acad. Sci. U. S. A. 122:e2411138122</a>.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/pubs/WilkenEA-2025.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="interobserver-variation-in-musculoskeletal-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="interobserver-variation-in-musculoskeletal-modeling">Interobserver variation in musculoskeletal modeling</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>Lagorio, AD, FR McGechie, MG Fields, J Fortner, E Mackereth, C Perez, AT Wilken, M Leal, CV Ward, KM Middleton, and CM Holliday. 2024. Computational approaches and observer variation in the 3D musculoskeletal modeling of the heads of Anolis. <a href="https://academic.oup.com/iob/article/6/1/obae009/7633948">Integr. Org. Biol. 6:obae009</a>.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/pubs/LagoriaEA-2024.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="genetic-variants-impacting-thermal-tolerance-in-drosophila" class="level2">
+<h2 class="anchored" data-anchor-id="genetic-variants-impacting-thermal-tolerance-in-drosophila">Genetic variants impacting thermal tolerance in <em>Drosophila</em></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>Williams-Simon, PA, C Oster, JA Moaton, R Ghidey, E Ng’oma, KM Middleton, and EG King. 2024. Naturally segregating genetic variants contribute to thermal tolerance in a <em>Drosophila melanogaster</em> model system. <a href="https://academic.oup.com/genetics/article/227/1/iyae040/7632166">Genetics, doi: 10.1093/genetics/iyae040</a>.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/pubs/WilliamsSimonEA-2024.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
+<section id="using-cross-sectional-data-to-predict-craniofacial-growth" class="level2">
+<h2 class="anchored" data-anchor-id="using-cross-sectional-data-to-predict-craniofacial-growth">Using cross-sectional data to predict craniofacial growth</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>Middleton, KM, DL Duren, KP McNulty, H Oh, M Valiathan, and RJ Sherwood. 2023. Cross-sectional data accurately model longitudinal growth in the craniofacial skeleton. <a href="https://www.nature.com/articles/s41598-023-46018-x">Sci. Rep.&nbsp;13:19294</a>.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img src="images/pubs/MiddletonEA-2023.png" class="img-fluid"></p>
+</div>
+</div>
+</div>
+</section>
 <section id="effects-of-climate-on-skeletal-morphology-in-humans" class="level2">
 <h2 class="anchored" data-anchor-id="effects-of-climate-on-skeletal-morphology-in-humans">Effects of climate on skeletal morphology in humans</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Cho EO, Cowgill LW, Middleton KM, Blomquist GE, Savoldi F, Tsoi J, Bornstein MM. 2022. The influence of climate and population structure on East Asian skeletal morphology. <a href="http://dx.doi.org/10.1016/j.jhevol.2022.103268">J Hum Evol 173:103268</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -181,9 +260,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="advances-in-imaging-of-crocodylian-skulls" class="level2">
 <h2 class="anchored" data-anchor-id="advances-in-imaging-of-crocodylian-skulls">Advances in imaging of crocodylian skulls</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Holliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lautenschlager S, Bader K, Brown MA, Colbert MW. 2022. New frontiers in imaging, anatomy, and mechanics of crocodylian jaw muscles. Anat Rec [Internet]. <a href="https://onlinelibrary.wiley.com/doi/10.1002/ar.25011">Available online</a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -194,9 +276,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="effects-of-skull-flattening-on-jaw-muscle-evolution" class="level2">
 <h2 class="anchored" data-anchor-id="effects-of-skull-flattening-on-jaw-muscle-evolution">Effects of skull flattening on jaw muscle evolution</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Sellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM. 2022. The effects of skull flattening on suchian jaw muscle evolution. Anat Rec. <a href="http://dx.doi.org/10.1002/ar.24912">Available online</a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -207,9 +292,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="craniofacial-growth-and-morphology" class="level2">
 <h2 class="anchored" data-anchor-id="craniofacial-growth-and-morphology">Craniofacial growth and morphology</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Knigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. <a href="http://dx.doi.org/10.1002/ar.24870">Anat Rec 305(9): 2175-2206</a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -220,9 +308,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="using-ternary-plots-to-visualize-muscle-actions" class="level2">
 <h2 class="anchored" data-anchor-id="using-ternary-plots-to-visualize-muscle-actions">Using ternary plots to visualize muscle actions</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Cost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. <a href="http://dx.doi.org/10.1242/jeb.243216">J Exp Biol 225 (Suppl_1): jeb243216.</a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -233,9 +324,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="estimating-craniofacial-growth-cessation" class="level2">
 <h2 class="anchored" data-anchor-id="estimating-craniofacial-growth-cessation">Estimating craniofacial growth cessation</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Hardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sherwood RJ. 2022. Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods. <a href="http://dx.doi.org/10.1177/10556656211002675">Cleft Palate Craniofac J 59:230–238</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -246,9 +340,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="bayesian-approach-to-longitudinal-craniofacial-growth" class="level2">
 <h2 class="anchored" data-anchor-id="bayesian-approach-to-longitudinal-craniofacial-growth">Bayesian approach to longitudinal craniofacial growth</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Sherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Holzhauser CL, Middleton KM. 2021. Bayesian approach to longitudinal craniofacial growth: the Craniofacial Growth Consortium Study. <a href="https://doi.org/10.1002/ar.24520">Anat Rec 304:991–1019</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -259,9 +356,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="estimating-peak-height-velocity-in-individuals" class="level2">
 <h2 class="anchored" data-anchor-id="estimating-peak-height-velocity-in-individuals">Estimating peak height velocity in individuals</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Boeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height velocity in individuals: a comparison of statistical methods. <a href="https://doi.org/10.1080/03014460.2020.1763458">Ann Hum Biol 47:434–445</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -272,9 +372,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="palatal-biomechanics-in-tyrannosaurus" class="level2">
 <h2 class="anchored" data-anchor-id="palatal-biomechanics-in-tyrannosaurus">Palatal biomechanics in <em>Tyrannosaurus</em></h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Cost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 2020. Palatal Biomechanics and Its Significance for Cranial Kinesis in <em>Tyrannosaurus rex</em>. <a href="https://doi.org/10.1002/ar.24219">Anat Rec 303:999–1017</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -285,9 +388,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="gigantism-in-saurischian-dinosaurs" class="level2">
 <h2 class="anchored" data-anchor-id="gigantism-in-saurischian-dinosaurs">Gigantism in saurischian dinosaurs</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Tsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be a giant: Convergence and disparity in the hip joints of saurischian dinosaurs. <a href="http://dx.doi.org/10.1111/evo.14017">Evolution 74:1654–1681</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -298,9 +404,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="biomechanics-of-the-suspensorium-in-reptiles" class="level2">
 <h2 class="anchored" data-anchor-id="biomechanics-of-the-suspensorium-in-reptiles">Biomechanics of the suspensorium in reptiles</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Wilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Connecting the chondrocranium: Biomechanics of the suspensorium in reptiles. <a href="http://dx.doi.org/10.26049/VZ70-3-2020-02">Vertebrate Zoology 70:275–290</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -311,9 +420,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="fertility-and-status-in-world-war-ii-refugees" class="level2">
 <h2 class="anchored" data-anchor-id="fertility-and-status-in-world-war-ii-refugees">Fertility and status in World War II refugees</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Lynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’Brien D, Loehr J. 2019. Integration involves a trade-off between fertility and status for World War II evacuees. <a href="https://doi.org/10.1038/s41562-019-0542-5">Nat Hum Behav 3:337–345</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -324,9 +436,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="diet-dependent-effects-on-lifespan-and-fecundity" class="level2">
 <h2 class="anchored" data-anchor-id="diet-dependent-effects-on-lifespan-and-fecundity">Diet-dependent effects on lifespan and fecundity</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Ng’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential of diet-dependent effects on lifespan and fecundity in a multi-parental population of <em>Drosophila melanogaster</em>. <a href="http://dx.doi.org/10.1038/s41437-018-0154-2">Heredity 122:582–594</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -337,9 +452,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="d-muscle-architecture" class="level2">
 <h2 class="anchored" data-anchor-id="d-muscle-architecture">3D Muscle Architecture</h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Sullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architecture of the Pectoral Muscles of European Starling (<em>Sturnus vulgaris</em>). <a href="http://dx.doi.org/10.1093/iob/oby010">Integr Org Biol 1:oby010</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -350,9 +468,12 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="cranial-kinesis-in-varanus-exanthematicus" class="level2">
 <h2 class="anchored" data-anchor-id="cranial-kinesis-in-varanus-exanthematicus">Cranial kinesis in <em>Varanus exanthematicus</em></h2>
-<div class="quarto-layout-panel">
-<div class="quarto-layout-row quarto-layout-valign-top">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <p>Wilken AT, Middleton KM, Sellers KC, Cost IN, Holliday CM. 2019. The roles of joint tissues and jaw muscles in palatal biomechanics of the Savannah monitor (<em>Varanus exanthematicus</em>) and their significance for cranial kinesis. <a href="https://doi.org/10.1242/jeb.201459">J Exp Biol 222:1–14</a>.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -392,12 +513,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
     }
-  });
-  clipboard.on('success', function(e) {
+    return false;
+  }
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -429,11 +553,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -443,8 +606,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -456,9 +628,245 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -499,6 +907,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
