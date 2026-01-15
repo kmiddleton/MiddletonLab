@@ -1,21 +1,91 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "My main teaching activity at the University of Missouri is in the MU School of Medicine. I am part of a large group of faculty and graduate trainees who teach first year clinically oriented human anatomy to first-year medical students. In the past I have taught our undergraduate pre-health Human Anatomy lecture and lab courses. I was involved in transitioning these large human anatomy lecture and lab courses to a “flipped classroom” format with clinical context."
+    "objectID": "people.html#kevin-middleton-hehim",
+    "href": "people.html#kevin-middleton-hehim",
+    "title": "People",
+    "section": "Kevin Middleton (he/him)",
+    "text": "Kevin Middleton (he/him)\n      \n\n\n\nI am an Associate Professor in the MU Division of Biological Sciences. My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I’m an active member of the informal DataPhiles discussion group.\n\n\n\n\n\n\nPreviously I was a faculty member in the Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine. From 2007-2012, I was in the Department of Biology at California State University, San Bernardino. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the Department of Ecology and Evolutionary Biology at Brown University.\nIf you want to read about bird foot evolution, here’s a link to my dissertation: Morphology, evolution, and function of the avian hallux.\nI firmly believe in (a modified version of) Federico Ardila’s basic axioms:\n\nAxiom 1. Quantitative biology potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.\n\n\nAxiom 2. Everyone can have joyful, meaningful, and empowering quantitative biology experiences.\n\n\nAxiom 3. Quantitative biology is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.\n\n\nAxiom 4. Every student deserves to be treated with dignity and respect.\n\n\nGraduate Researchers\n\n\n\n\n\n\nInterested in graduate studies?\n\n\n\nIf you an interested in graduate study in the Division of Biological Sciences, send me an email .\n\n\n\n\nUndergraduate Researchers\n\nGabi Ramirez\n\n\n\n\nComputer Science, MARC Fellow\nDeep learning applications for the study of craniofacial growth\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterested in undergraduate research?\n\n\n\nIf you an interested in undergraduate research, send me an email ."
   },
   {
-    "objectID": "teaching.html#statistical-inference-and-data-analysis",
-    "href": "teaching.html#statistical-inference-and-data-analysis",
-    "title": "Teaching",
-    "section": "Statistical Inference and Data Analysis",
-    "text": "Statistical Inference and Data Analysis\nI have been teaching statistics and data analysis for life sciences periodically for the last few years. I’m a strong believer in demystifying analysis (particularly using R and/or python) and in teaching students reproducible research. Dr. Elizabeth King (MU Biological Sciences) and I co-developed a graduate course in quantitative methods for life sciences students. It is freely available online.\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter."
+    "objectID": "people.html#lab-alumni",
+    "href": "people.html#lab-alumni",
+    "title": "People",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni\n\nGraduate Researchers\n\nSarah Peacock\n\n\n\n\nEffects of light on bone phenotypes, Modern human variation, Human craniofacial morphology, Forensic anthropology\nPhD University of Missouri, 2019\nCurrently an Assistant Teaching Professor at Northeastern University\n\n\n\n\n\n\n\n\n\nAmanda Smolinsky\n\n\n\n\nSkeletal evolution, Locomotor evolution in vertebrates, Effects of loading on bone phenotypes, Functional morphology\nPhD University of Missouri, 2018\nCurrently an Assistant Teaching Professor at Rowan University School of Medicine\n\n\n\n\n\n\n\n\n\nBrittney Coats\n\n\n\n\nEnergy regulation, Inflammatory role of adipose tissue\nMS CSU San Bernardino 2012\nPhD University of Chicago\nCurrently at ITW David Speer Academy, Chicago, IL\n\n\n\n\n\n\n\n\n\nLauren English\n\n\n\n\n\nMorphometrics of pterosaurs\nMS CSU San Bernardino 2012\nPhD University of Texas at Austin\nCurrently a museum scientist at University of California, Riverside\n\n\n\n\n\n\nSusan Lujan\n\n\n\n\nEffects of atmospheric oxygen on growth in alligators\nMS CSU San Bernardino 2012\n\n\n\n\n\n\n\nUndergraduate Researchers\n\nAdam Albright (2021-2023)\n\nMechanisms of insect flight, Imaging and CT scanning, Genetics\nUniversity of Missouri, 2023\n\n\n\nJosh Fajardo (2020-2022)\n\nLocomotor biomechanics, machine learning, developing tools for studying mouse locomotion\nUniversity of Missouri, 2022\n\n\n\nMaddy LaChance (2020-2022)\n\nCranial morphology in mice, Geometric morphometrics\nMU Cherng Summer Scholar\nUniversity of Missouri, 2022\n\n\n\nKayla Robinson (2021-2022)\n\nMU DBS Honors Student\n\n\n\nAlec Wilken (2016-2019)\n\nPhD University of Chicago, 2026\n\n\n\nCaitlyn Smith (2016-2018)\n\nCurrently a student in the University of Missouri School of Medicine\n\n\n\nKendra Lewis (2018)\n\nMU School of Medicine Summer Research Intern from Washington University in St. Louis\n\n\n\nRebecca Meyer (2016-2018)\n\nCurrently in medical school at the Kentucky College of Medicine\n\n\n\nNick Bira (2014-2018)   \n\nC3 Hughes Research Fellow\nCompleted PhD at Oregon State University, 2022\n\n\n\nKyle Kirkland (2015)\n\nMU School of Medicine Summer Research Intern from Michigan State University\n\n\n\nMichael Sojka (2014-2015)  \n\nC3 Hughes Research Fellow, MU School of Journalism\n\n\n\nTarrin Casey, MD (2014)\n\nMD University of Missouri School of Medicine\n\n\n\nDiana Salas (2013)\n\nMU School of Medicine Summer Research Intern from Indiana University"
+  },
+  {
+    "objectID": "ride.html",
+    "href": "ride.html",
+    "title": "R.I.D.E.",
+    "section": "",
+    "text": "I would like to acknowledge that I work in what is colonially known as “Missouri,” and that these were the homelands of the tribal nations of the Nutachi (Missouria), Jiwere (Otoe), Wahzhazhe (Osage), Ogáxpa (Quapaw), Chikasha (Chickasaw), Illini, and Báxoǰe (Ioway), among others.\nFour core values of our lab are respect, inclusion, diversity, and equality."
+  },
+  {
+    "objectID": "ride.html#respect",
+    "href": "ride.html#respect",
+    "title": "R.I.D.E.",
+    "section": "Respect",
+    "text": "Respect\nWe expect lab members to contribute to a friendly and thus productive environment which promotes personal growth, learning, and research. We expect that everyone will treat their colleagues with respect, listen to others’ viewpoints and ideas, and ensure the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance."
+  },
+  {
+    "objectID": "ride.html#inclusion",
+    "href": "ride.html#inclusion",
+    "title": "R.I.D.E.",
+    "section": "Inclusion",
+    "text": "Inclusion\nWe believe that everyone has a place in biology regardless of race, gender, sexual orientation, gender identity, ethnicity, socioeconomic status, nationality , age, religious affiliation, physical abilities, learning disabilities, family and parental status, and veteran status."
+  },
+  {
+    "objectID": "ride.html#diversity",
+    "href": "ride.html#diversity",
+    "title": "R.I.D.E.",
+    "section": "Diversity",
+    "text": "Diversity\nWe believe that strength comes from diversity. All individual uniqueness provides opportunity for learning and growth. We commit to supporting each other in promoting a more diverse community of science."
+  },
+  {
+    "objectID": "ride.html#equality",
+    "href": "ride.html#equality",
+    "title": "R.I.D.E.",
+    "section": "Equality",
+    "text": "Equality\nWe believe in equal participation of all groups and that we should actively work against policies and procedures that have systematically excluded and marginalized groups. We take an anti-oppression and anti-racist mindset and will actively counter oppression at all levels."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evolutionary Functional Morphology (among other things)",
+    "section": "",
+    "text": "Our lab is in the Division of Biological Sciences at the University of Missouri.\nOur research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms.\nHere are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the research page:"
+  },
+  {
+    "objectID": "projects/locomotion.html",
+    "href": "projects/locomotion.html",
+    "title": "Tools for studying mouse locomotion",
+    "section": "",
+    "text": "A project that was initiated by undergraduate researcher Nick Bira and picked up by Josh Fajardo has focused on developing methods for more efficiently studying 3d mouse kinematics.\nAlthough mice and rats are common animal models, much of the “state-of-the-art” involves footfall analysis. This used to be done with ink, but now it is automated. We aimed to bring 3d analysis of kinematics to small animals. Moreover, we wanted to use easily obtainable hardware.\nWe set up a pair of GoPro cameras at about 60° to one another and filmed mice walking freely down a walkway.\n\nWe used DeepLabCut trained on about 450 frames that were manually digitized. Following this, we auto-labeled ~40,000 frames (~480,000 points) from 148 locomotor trials. Movies were digitized separately and then calibrated to one another to give 3d coordinates.\n\nWe track points that define limb position and allow us quantify locomotor parameters (stride length, stance width, duty factor, etc.).\n\nWe end up with a full three-dimensional representation of the stride cycle.\n\nWe can then statistically compare kinematic variables. We have only manually digitized 1% of the frames, saving time (and tedious, error-prone digitizing)."
+  },
+  {
+    "objectID": "projects/muscle.html",
+    "href": "projects/muscle.html",
+    "title": "New Approaches to Muscle Architecture and Function",
+    "section": "",
+    "text": "To study the evolution of feeding, grasping, and locomotion, it is important to be able to accurately estimate muscle forces and their direction of action. In collaboration with Carol Ward and Casey Holliday (University of Missouri Department of Pathology and Anatomical Sciences), we are using contrast-enhanced CT imaging (DICE-CT) to explore the internal architecture of muscles in exceptional detail.\nPresently our studies are focused on feeding systems in archosaurs and the hands and feet of mammals.\nWe use DICE-CT followed by fascicle tracking to generate a 3D model of whole muscles. We can then process the resulting data to estimate the individual and combined effects of muscle architecture on function."
+  },
+  {
+    "objectID": "projects/mice.html",
+    "href": "projects/mice.html",
+    "title": "Skeletal Morphology in High-Activity Mice",
+    "section": "",
+    "text": "We have a long-term collaborative project with Dr. Theodore Garland, Jr. in the Department of Biology at the University of California, Riverside, studying the effects of exercise and artificial selection on skeletal morphology and bone mechanics in house mice.\nThe Garland Lab has been artificially selecting mice for high levels of voluntary wheel running for more than 60 generations. These “high-runner” mice can run more than 25 km in one night, which is taxing to most physiological systems. In the lab, we are particularly interested in the effects (both separate and combined) of exercise and artificial selection on skeletal form, growth, physiology, and function.\n\nInbred High Activity Mini-Muscle Mice\nA major project in the lab is the establishment of an inbred strain of high-activity mice that exhibit the mini-muscle phenotype. This project was begun in 2007. As of Fall 2014, we are over 20 generations into inbreeding and can now officially say that the strain is inbred.\n\n\n\n\n\n\nFigure 1: When standardized to body mass, mice with the mini-muscle phenotype (left) have significantly longer and thinner femora than randomly bred controls (right).\n\n\n\nThe strain of mice that results from the project, which will both exhibit the mini-muscle allele and have genes enabling them to run great distances are a potential model organism for human musculoskeletal diseases and disorders. For example, mice can be crossed with other strains of mice known to have high or low bone mass to dissect the complex interaction between muscle function and normal bone growth.\n\n\n\n\n\n\nFigure 2: Comparison of mini-muscle (left) and wild-type (right) phenotype triceps surae muscle. The mini-muscle is about 50% less massive. (Photo courtesy of Mark Chappell)\n\n\n\nFuture experiments may include physiological measurements such as maximal oxygen consumption during strenuous exercise. High-runner mice generally have higher oxygen consumption, but this varies depending of the presence of the mini-muscle allele. Additionally, inbreeding may affect the physiological capacity of mice, so comparisons between the mice described in this experiment and “regular” high-runner mice will provide insights into the complex regulation of physiology. Research in the lab also concerns differences in bone shape and materials between mini-muscle mice and both high-runner mice and “standard” strains of lab mice.\nComparisons of shape and breaking strength with other types of mice will help us understand how genetics control the formation and, ultimately, function of the skeleton. In humans, for instance, it has been shown that certain bone shapes are more prone to fracture, and that these shape differences are genetically determined. By studying the same relationship in a model organism, in which we can have much greater experimental control, we will be able to better understand human biology."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
+    "title": "Research Areas",
+    "section": "",
+    "text": "For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is important for planning treatment.\n\n\n\n\n\n\nLearn more about craniofacial growth"
+  },
+  {
+    "objectID": "research.html#craniofacial-growth",
+    "href": "research.html#craniofacial-growth",
     "title": "Research Areas",
     "section": "",
     "text": "For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is important for planning treatment.\n\n\n\n\n\n\nLearn more about craniofacial growth"
@@ -49,18 +119,32 @@
     "text": "Skeletal Morphology in High-Activity Mice\n\n\n\nAlthough “exercise builds strong bones”, genetics play a large part in bone’s response to exercise. I have worked toward an animal model to investigate the relative roles of these two key determinants of skeletal form.\n\n\n\n\n\n\nLearn more about high-activity mice"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My main teaching activity at the University of Missouri is in the MU School of Medicine. I am part of a large group of faculty and graduate trainees who teach first year clinically oriented human anatomy to first-year medical students. In the past I have taught our undergraduate pre-health Human Anatomy lecture and lab courses. I was involved in transitioning these large human anatomy lecture and lab courses to a “flipped classroom” format with clinical context."
+  },
+  {
+    "objectID": "teaching.html#clinical-human-anatomy",
+    "href": "teaching.html#clinical-human-anatomy",
+    "title": "Teaching",
+    "section": "",
+    "text": "My main teaching activity at the University of Missouri is in the MU School of Medicine. I am part of a large group of faculty and graduate trainees who teach first year clinically oriented human anatomy to first-year medical students. In the past I have taught our undergraduate pre-health Human Anatomy lecture and lab courses. I was involved in transitioning these large human anatomy lecture and lab courses to a “flipped classroom” format with clinical context."
+  },
+  {
+    "objectID": "teaching.html#statistical-inference-and-data-analysis",
+    "href": "teaching.html#statistical-inference-and-data-analysis",
+    "title": "Teaching",
+    "section": "Statistical Inference and Data Analysis",
+    "text": "Statistical Inference and Data Analysis\nI have been teaching statistics and data analysis for life sciences periodically for the last few years. I’m a strong believer in demystifying analysis (particularly using R and/or python) and in teaching students reproducible research. Dr. Elizabeth King (MU Biological Sciences) and I co-developed a graduate course in quantitative methods for life sciences students. It is freely available online.\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter."
+  },
+  {
     "objectID": "projects/craniofacial.html",
     "href": "projects/craniofacial.html",
     "title": "Craniofacial Growth",
     "section": "",
     "text": "For orthodontic and craniofacial surgical interventions, estimation of the timing of peak growth and/or the amount of remaining growth is important for planning treatment. We are seeking to estimate these quantities for a wide range of traits in two- and three-dimensional imaging.\n\n\n\n\n\n\nWe are part of a large collaborative project led by Richard Sherwood (University of Missouri), which also includes Dana Duren (University of Missouri), Kieran McNulty (University of Minnesota), Heesoo Oh (University of the Pacific), and Manish Valiathan (Case Western Reserve University). The overall goal is to understand the patterns of human craniofacial growth and variation.\nWe work with a very large set of longitudinal cephalographs that make up the AAOF Craniofacial Growth Legacy Collection. These have been landmarked for dozens of anatomical features.\n\n\n\n\n\n\n\n\n\n\nWe use information about current and past morphology, estimates of skeletal maturity, and standard facial types to predict future growth.\n\nWe use Bayesian inference to fit a double logistic growth equation to each trait\n\\[\ntrait(age) = \\frac{a_1}{1 + \\exp(-b_1 (age - c_1))} +\n             \\frac{a_2}{1 + \\exp(-b_2 (age - c_2))}\n\\]\nwhich includes two periods of growth, prepubertal and a pubertal growth spurt. This approach works better than more commonly used (and easier to fit) polynomial or spline models.\n\n\n\n\n\n\n\n\n\n\nWe are developing Shiny apps to bring the results of these analyses to the clinical community.\nHere are some recent papers from this project:\n\n\nHardin, Anna M, Ryan P Knigge, Hee Soo Oh, Manish Valiathan, Dana L Duren, Kieran P McNulty, Kevin M Middleton, and Richard J Sherwood. 2022. “Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods.” Cleft Palate Craniofac. J. 59 (2): 230–38. https://doi.org/10.1177/10556656211002675.\n\n\nKnigge, Ryan P, Anna M Hardin, Kevin M Middleton, Kieran P McNulty, Heesoo Oh, Manish Valiathan, Dana L Duren, and Richard J Sherwood. 2022. “Craniofacial Growth and Morphology Among Intersecting Clinical Categories.” Anat. Rec., January. https://doi.org/10.1002/ar.24870.\n\n\nSherwood, Richard J, Hee Soo Oh, Manish Valiathan, Kieran P McNulty, Dana L Duren, Ryan P Knigge, Anna M Hardin, Christina L Holzhauser, and Kevin M Middleton. 2021. “Bayesian Approach to Longitudinal Craniofacial Growth: The Craniofacial Growth Consortium Study.” Anat. Rec. 304 (5): 991–1019. https://doi.org/10.1002/ar.24520."
-  },
-  {
-    "objectID": "projects/mice.html",
-    "href": "projects/mice.html",
-    "title": "Skeletal Morphology in High-Activity Mice",
-    "section": "",
-    "text": "We have a long-term collaborative project with Dr. Theodore Garland, Jr. in the Department of Biology at the University of California, Riverside, studying the effects of exercise and artificial selection on skeletal morphology and bone mechanics in house mice.\nThe Garland Lab has been artificially selecting mice for high levels of voluntary wheel running for more than 60 generations. These “high-runner” mice can run more than 25 km in one night, which is taxing to most physiological systems. In the lab, we are particularly interested in the effects (both separate and combined) of exercise and artificial selection on skeletal form, growth, physiology, and function.\n\nInbred High Activity Mini-Muscle Mice\nA major project in the lab is the establishment of an inbred strain of high-activity mice that exhibit the mini-muscle phenotype. This project was begun in 2007. As of Fall 2014, we are over 20 generations into inbreeding and can now officially say that the strain is inbred.\n\n\n\nFigure 1: When standardized to body mass, mice with the mini-muscle phenotype (left) have significantly longer and thinner femora than randomly bred controls (right).\n\n\nThe strain of mice that results from the project, which will both exhibit the mini-muscle allele and have genes enabling them to run great distances are a potential model organism for human musculoskeletal diseases and disorders. For example, mice can be crossed with other strains of mice known to have high or low bone mass to dissect the complex interaction between muscle function and normal bone growth.\n\n\n\nFigure 2: Comparison of mini-muscle (left) and wild-type (right) phenotype triceps surae muscle. The mini-muscle is about 50% less massive. (Photo courtesy of Mark Chappell)\n\n\nFuture experiments may include physiological measurements such as maximal oxygen consumption during strenuous exercise. High-runner mice generally have higher oxygen consumption, but this varies depending of the presence of the mini-muscle allele. Additionally, inbreeding may affect the physiological capacity of mice, so comparisons between the mice described in this experiment and “regular” high-runner mice will provide insights into the complex regulation of physiology. Research in the lab also concerns differences in bone shape and materials between mini-muscle mice and both high-runner mice and “standard” strains of lab mice.\nComparisons of shape and breaking strength with other types of mice will help us understand how genetics control the formation and, ultimately, function of the skeleton. In humans, for instance, it has been shown that certain bone shapes are more prone to fracture, and that these shape differences are genetically determined. By studying the same relationship in a model organism, in which we can have much greater experimental control, we will be able to better understand human biology."
   },
   {
     "objectID": "projects/archosaur.html",
@@ -70,29 +154,22 @@
     "text": "In collaboration with Casey Holliday (University of Missouri), we are studying the evolution of cranial kinesis across the non-avian theropod dinosaur to bird transition.\nCranial kinesis (movement among the bones of the skull, excepting the jaw) required a significant reorganization of skeletal tissues and was likely a major evolutionary factor in the highly diverse feeding apparatus and ultimately the diversification of modern birds. The goal of this project is to understand the biomechanical environment of the feeding system.\n\nComputational modelling of cranial function has allowed us to estimate all the forces acting on the jaws and skull. From a CT-scan, we generate a 3D model, convert to a finite element model and then “map” muscle attachments.\n\nWe use these muscle attachments combined with knowledge of muscle contractile properties to generate a 3D picture of the biomechanical environment of the head."
   },
   {
-    "objectID": "projects/muscle.html",
-    "href": "projects/muscle.html",
-    "title": "New Approaches to Muscle Architecture and Function",
-    "section": "",
-    "text": "To study the evolution of feeding, grasping, and locomotion, it is important to be able to accurately estimate muscle forces and their direction of action. In collaboration with Carol Ward and Casey Holliday (University of Missouri Department of Pathology and Anatomical Sciences), we are using contrast-enhanced CT imaging (DICE-CT) to explore the internal architecture of muscles in exceptional detail.\nPresently our studies are focused on feeding systems in archosaurs and the hands and feet of mammals.\nWe use DICE-CT followed by fascicle tracking to generate a 3D model of whole muscles. We can then process the resulting data to estimate the individual and combined effects of muscle architecture on function."
-  },
-  {
     "objectID": "projects/template.html",
     "href": "projects/template.html",
     "title": "template",
     "section": "",
-    "text": "Lorem\n\n\n\nFigure 1: Figure legend"
-  },
-  {
-    "objectID": "projects/locomotion.html",
-    "href": "projects/locomotion.html",
-    "title": "Tools for studying mouse locomotion",
-    "section": "",
-    "text": "A project that was initiated by undergraduate researcher Nick Bira and picked up by Josh Fajardo has focused on developing methods for more efficiently studying 3d mouse kinematics.\nAlthough mice and rats are common animal models, much of the “state-of-the-art” involves footfall analysis. This used to be done with ink, but now it is automated. We aimed to bring 3d analysis of kinematics to small animals. Moreover, we wanted to use easily obtainable hardware.\nWe set up a pair of GoPro cameras at about 60° to one another and filmed mice walking freely down a walkway.\n\nWe used DeepLabCut trained on about 450 frames that were manually digitized. Following this, we auto-labeled ~40,000 frames (~480,000 points) from 148 locomotor trials. Movies were digitized separately and then calibrated to one another to give 3d coordinates.\n\nWe track points that define limb position and allow us quantify locomotor parameters (stride length, stance width, duty factor, etc.).\n\nWe end up with a full three-dimensional representation of the stride cycle.\n\nWe can then statistically compare kinematic variables. We have only manually digitized 1% of the frames, saving time (and tedious, error-prone digitizing)."
+    "text": "Lorem\n\n\n\n\n\n\nFigure 1: Figure legend"
   },
   {
     "objectID": "news.html",
     "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "2022-05-17\nThis Spring, I bid farewell to two fantastic undergraduate researchers: Maddy LaChance and Josh Fajardo, who both graduated from MU.\nI have had the great pleasure of working with them for the past few years, even when it was impossible to meet in person. In fact, both carried out their research largely remotely.\nMaddy was studying cranial shape in high-activity mice, and Josh was developing tools for studying mouse locomotion. Maddy is moving on to industry, and Josh is taking a gap year while applying to medical school.\nThere are still manuscripts to work on, so I’ll get to interact with them in the coming months and years. I wish them both all the best."
+  },
+  {
+    "objectID": "news.html#congratulations-josh-and-maddy",
+    "href": "news.html#congratulations-josh-and-maddy",
     "title": "News",
     "section": "",
     "text": "2022-05-17\nThis Spring, I bid farewell to two fantastic undergraduate researchers: Maddy LaChance and Josh Fajardo, who both graduated from MU.\nI have had the great pleasure of working with them for the past few years, even when it was impossible to meet in person. In fact, both carried out their research largely remotely.\nMaddy was studying cranial shape in high-activity mice, and Josh was developing tools for studying mouse locomotion. Maddy is moving on to industry, and Josh is taking a gap year while applying to medical school.\nThere are still manuscripts to work on, so I’ll get to interact with them in the coming months and years. I wish them both all the best."
@@ -154,13 +231,6 @@
     "text": "Forthcoming AJPA paper\nSarah Peacock’s paper “Predicting the bending properties of long bones: insights from an experimental mouse model” was recently accepted for publication in the American Journal of Physical Anthropology. Congratulations Sarah, with coauthors Brittney Coats (David Speer Academy), Kyle Kirkland (Michigan State University), Corwin Tanner (Blivet Solutions), and Ted Garland, Jr. (UC Riverside).\n\n\n\nBone cross-sections\n\n\nIn this paper, we try a new approach for the analysis, Bayesian inference. We preferred this method because it was simpler and more direct that traditional frequestist inference, with the added benefit of being closer to the way that we actually conceptualize such analysis.\nWe were mainly interested in the differences between groups, which we were able to estimate directly from the posterior samples:\n\n\n\nDifferences of posterior distributions.\n\n\nSo we had to come up with a method for displaying these posterior summaries:\n\n\n\nPosterior summaries of differences."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Evolutionary Functional Morphology (among other things)",
-    "section": "",
-    "text": "Our lab is in the Division of Biological Sciences at the University of Missouri.\nOur research focuses on vertebrate musculoskeletal physiology, form, and function in the contexts of animal locomotion and evolution. We integrate studies across multiple scales from micro-scale structural materials of bone to macro-scale whole bone morphology to evolutionary changes across vertebrate taxa and with comparisons to extinct organisms.\nHere are a range of projects that we have worked on, many of which are ongoing. Click the image to jump to the research page:"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Recent Publications",
@@ -168,144 +238,137 @@
     "text": "Here are some recent publications from the lab."
   },
   {
+    "objectID": "publications.html#evolution-of-the-avian-skull",
+    "href": "publications.html#evolution-of-the-avian-skull",
+    "title": "Recent Publications",
+    "section": "Evolution of the avian skull",
+    "text": "Evolution of the avian skull\n\n\n\nWilken, AT, KC Sellers, IN Cost, J Davis, KM Middleton, LM Witmer, and CM Holliday. 2025. Avian cranial kinesis is the result of increased encephalization during the origin of birds. Proc. Natl. Acad. Sci. U. S. A. 122:e2411138122."
+  },
+  {
+    "objectID": "publications.html#interobserver-variation-in-musculoskeletal-modeling",
+    "href": "publications.html#interobserver-variation-in-musculoskeletal-modeling",
+    "title": "Recent Publications",
+    "section": "Interobserver variation in musculoskeletal modeling",
+    "text": "Interobserver variation in musculoskeletal modeling\n\n\n\nLagorio, AD, FR McGechie, MG Fields, J Fortner, E Mackereth, C Perez, AT Wilken, M Leal, CV Ward, KM Middleton, and CM Holliday. 2024. Computational approaches and observer variation in the 3D musculoskeletal modeling of the heads of Anolis. Integr. Org. Biol. 6:obae009."
+  },
+  {
+    "objectID": "publications.html#genetic-variants-impacting-thermal-tolerance-in-drosophila",
+    "href": "publications.html#genetic-variants-impacting-thermal-tolerance-in-drosophila",
+    "title": "Recent Publications",
+    "section": "Genetic variants impacting thermal tolerance in Drosophila",
+    "text": "Genetic variants impacting thermal tolerance in Drosophila\n\n\n\nWilliams-Simon, PA, C Oster, JA Moaton, R Ghidey, E Ng’oma, KM Middleton, and EG King. 2024. Naturally segregating genetic variants contribute to thermal tolerance in a Drosophila melanogaster model system. Genetics, doi: 10.1093/genetics/iyae040."
+  },
+  {
+    "objectID": "publications.html#using-cross-sectional-data-to-predict-craniofacial-growth",
+    "href": "publications.html#using-cross-sectional-data-to-predict-craniofacial-growth",
+    "title": "Recent Publications",
+    "section": "Using cross-sectional data to predict craniofacial growth",
+    "text": "Using cross-sectional data to predict craniofacial growth\n\n\n\nMiddleton, KM, DL Duren, KP McNulty, H Oh, M Valiathan, and RJ Sherwood. 2023. Cross-sectional data accurately model longitudinal growth in the craniofacial skeleton. Sci. Rep. 13:19294."
+  },
+  {
     "objectID": "publications.html#effects-of-climate-on-skeletal-morphology-in-humans",
     "href": "publications.html#effects-of-climate-on-skeletal-morphology-in-humans",
     "title": "Recent Publications",
     "section": "Effects of climate on skeletal morphology in humans",
-    "text": "Effects of climate on skeletal morphology in humans\n\n\n\n\n\n\nCho EO, Cowgill LW, Middleton KM, Blomquist GE, Savoldi F, Tsoi J, Bornstein MM. 2022. The influence of climate and population structure on East Asian skeletal morphology. J Hum Evol 173:103268."
+    "text": "Effects of climate on skeletal morphology in humans\n\n\n\nCho EO, Cowgill LW, Middleton KM, Blomquist GE, Savoldi F, Tsoi J, Bornstein MM. 2022. The influence of climate and population structure on East Asian skeletal morphology. J Hum Evol 173:103268."
   },
   {
     "objectID": "publications.html#advances-in-imaging-of-crocodylian-skulls",
     "href": "publications.html#advances-in-imaging-of-crocodylian-skulls",
     "title": "Recent Publications",
     "section": "Advances in imaging of crocodylian skulls",
-    "text": "Advances in imaging of crocodylian skulls\n\n\n\n\n\n\nHolliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lautenschlager S, Bader K, Brown MA, Colbert MW. 2022. New frontiers in imaging, anatomy, and mechanics of crocodylian jaw muscles. Anat Rec [Internet]. Available online"
+    "text": "Advances in imaging of crocodylian skulls\n\n\n\nHolliday CM, Sellers KC, Lessner EJ, Middleton KM, Cranor C, Verhulst CD, Lautenschlager S, Bader K, Brown MA, Colbert MW. 2022. New frontiers in imaging, anatomy, and mechanics of crocodylian jaw muscles. Anat Rec [Internet]. Available online"
   },
   {
     "objectID": "publications.html#effects-of-skull-flattening-on-jaw-muscle-evolution",
     "href": "publications.html#effects-of-skull-flattening-on-jaw-muscle-evolution",
     "title": "Recent Publications",
     "section": "Effects of skull flattening on jaw muscle evolution",
-    "text": "Effects of skull flattening on jaw muscle evolution\n\n\n\n\n\n\nSellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM. 2022. The effects of skull flattening on suchian jaw muscle evolution. Anat Rec. Available online"
+    "text": "Effects of skull flattening on jaw muscle evolution\n\n\n\nSellers KC, Nieto MN, Degrange FJ, Pol D, Clark JM, Middleton KM, Holliday CM. 2022. The effects of skull flattening on suchian jaw muscle evolution. Anat Rec. Available online"
   },
   {
     "objectID": "publications.html#craniofacial-growth-and-morphology",
     "href": "publications.html#craniofacial-growth-and-morphology",
     "title": "Recent Publications",
     "section": "Craniofacial growth and morphology",
-    "text": "Craniofacial growth and morphology\n\n\n\n\n\n\nKnigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. Anat Rec 305(9): 2175-2206"
+    "text": "Craniofacial growth and morphology\n\n\n\nKnigge RP, Hardin AM, Middleton KM, McNulty KP, Oh H, Valiathan M, Duren DL, Sherwood RJ. 2022. Craniofacial growth and morphology among intersecting clinical categories. Anat Rec 305(9): 2175-2206"
   },
   {
     "objectID": "publications.html#using-ternary-plots-to-visualize-muscle-actions",
     "href": "publications.html#using-ternary-plots-to-visualize-muscle-actions",
     "title": "Recent Publications",
     "section": "Using ternary plots to visualize muscle actions",
-    "text": "Using ternary plots to visualize muscle actions\n\n\n\n\n\n\nCost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. J Exp Biol 225 (Suppl_1): jeb243216."
+    "text": "Using ternary plots to visualize muscle actions\n\n\n\nCost IN, Sellers KC, Rozin RE, Spates AT, Middleton KM, Holliday CM. 2022. 2D and 3D visualizations of archosaur jaw muscle mechanics, ontogeny and phylogeny using ternary diagrams and 3D modeling. J Exp Biol 225 (Suppl_1): jeb243216."
   },
   {
     "objectID": "publications.html#estimating-craniofacial-growth-cessation",
     "href": "publications.html#estimating-craniofacial-growth-cessation",
     "title": "Recent Publications",
     "section": "Estimating craniofacial growth cessation",
-    "text": "Estimating craniofacial growth cessation\n\n\n\n\n\n\nHardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sherwood RJ. 2022. Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods. Cleft Palate Craniofac J 59:230–238."
+    "text": "Estimating craniofacial growth cessation\n\n\n\nHardin AM, Knigge RP, Oh HS, Valiathan M, Duren DL, McNulty KP, Middleton KM, Sherwood RJ. 2022. Estimating Craniofacial Growth Cessation: Comparison of Asymptote- and Rate-Based Methods. Cleft Palate Craniofac J 59:230–238."
   },
   {
     "objectID": "publications.html#bayesian-approach-to-longitudinal-craniofacial-growth",
     "href": "publications.html#bayesian-approach-to-longitudinal-craniofacial-growth",
     "title": "Recent Publications",
     "section": "Bayesian approach to longitudinal craniofacial growth",
-    "text": "Bayesian approach to longitudinal craniofacial growth\n\n\n\n\n\n\nSherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Holzhauser CL, Middleton KM. 2021. Bayesian approach to longitudinal craniofacial growth: the Craniofacial Growth Consortium Study. Anat Rec 304:991–1019."
+    "text": "Bayesian approach to longitudinal craniofacial growth\n\n\n\nSherwood RJ, Oh HS, Valiathan M, McNulty KP, Duren DL, Knigge RP, Hardin AM, Holzhauser CL, Middleton KM. 2021. Bayesian approach to longitudinal craniofacial growth: the Craniofacial Growth Consortium Study. Anat Rec 304:991–1019."
   },
   {
     "objectID": "publications.html#estimating-peak-height-velocity-in-individuals",
     "href": "publications.html#estimating-peak-height-velocity-in-individuals",
     "title": "Recent Publications",
     "section": "Estimating peak height velocity in individuals",
-    "text": "Estimating peak height velocity in individuals\n\n\n\n\n\n\nBoeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height velocity in individuals: a comparison of statistical methods. Ann Hum Biol 47:434–445."
+    "text": "Estimating peak height velocity in individuals\n\n\n\nBoeyer ME, Middleton KM, Duren DL, Leary EV. 2020. Estimating peak height velocity in individuals: a comparison of statistical methods. Ann Hum Biol 47:434–445."
   },
   {
     "objectID": "publications.html#palatal-biomechanics-in-tyrannosaurus",
     "href": "publications.html#palatal-biomechanics-in-tyrannosaurus",
     "title": "Recent Publications",
     "section": "Palatal biomechanics in Tyrannosaurus",
-    "text": "Palatal biomechanics in Tyrannosaurus\n\n\n\n\n\n\nCost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 2020. Palatal Biomechanics and Its Significance for Cranial Kinesis in Tyrannosaurus rex. Anat Rec 303:999–1017."
+    "text": "Palatal biomechanics in Tyrannosaurus\n\n\n\nCost IN, Middleton KM, Sellers KC, Echols MS, Witmer LM, Davis JL, Holliday CM. 2020. Palatal Biomechanics and Its Significance for Cranial Kinesis in Tyrannosaurus rex. Anat Rec 303:999–1017."
   },
   {
     "objectID": "publications.html#gigantism-in-saurischian-dinosaurs",
     "href": "publications.html#gigantism-in-saurischian-dinosaurs",
     "title": "Recent Publications",
     "section": "Gigantism in saurischian dinosaurs",
-    "text": "Gigantism in saurischian dinosaurs\n\n\n\n\n\n\nTsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be a giant: Convergence and disparity in the hip joints of saurischian dinosaurs. Evolution 74:1654–1681."
+    "text": "Gigantism in saurischian dinosaurs\n\n\n\nTsai HP, Middleton KM, Hutchinson JR, Holliday CM. 2020. More than one way to be a giant: Convergence and disparity in the hip joints of saurischian dinosaurs. Evolution 74:1654–1681."
   },
   {
     "objectID": "publications.html#biomechanics-of-the-suspensorium-in-reptiles",
     "href": "publications.html#biomechanics-of-the-suspensorium-in-reptiles",
     "title": "Recent Publications",
     "section": "Biomechanics of the suspensorium in reptiles",
-    "text": "Biomechanics of the suspensorium in reptiles\n\n\n\n\n\n\nWilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Connecting the chondrocranium: Biomechanics of the suspensorium in reptiles. Vertebrate Zoology 70:275–290."
+    "text": "Biomechanics of the suspensorium in reptiles\n\n\n\nWilken AT, Sellers KC, Cost IN, Rozin RE, Middleton KM, Holliday CM. 2020. Connecting the chondrocranium: Biomechanics of the suspensorium in reptiles. Vertebrate Zoology 70:275–290."
   },
   {
     "objectID": "publications.html#fertility-and-status-in-world-war-ii-refugees",
     "href": "publications.html#fertility-and-status-in-world-war-ii-refugees",
     "title": "Recent Publications",
     "section": "Fertility and status in World War II refugees",
-    "text": "Fertility and status in World War II refugees\n\n\n\n\n\n\nLynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’Brien D, Loehr J. 2019. Integration involves a trade-off between fertility and status for World War II evacuees. Nat Hum Behav 3:337–345."
+    "text": "Fertility and status in World War II refugees\n\n\n\nLynch R, Lummaa V, Panchanathan K, Middleton K, Rotkirch A, Danielsbacka M, O’Brien D, Loehr J. 2019. Integration involves a trade-off between fertility and status for World War II evacuees. Nat Hum Behav 3:337–345."
   },
   {
     "objectID": "publications.html#diet-dependent-effects-on-lifespan-and-fecundity",
     "href": "publications.html#diet-dependent-effects-on-lifespan-and-fecundity",
     "title": "Recent Publications",
     "section": "Diet-dependent effects on lifespan and fecundity",
-    "text": "Diet-dependent effects on lifespan and fecundity\n\n\n\n\n\n\nNg’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential of diet-dependent effects on lifespan and fecundity in a multi-parental population of Drosophila melanogaster. Heredity 122:582–594."
+    "text": "Diet-dependent effects on lifespan and fecundity\n\n\n\nNg’oma E, Fidelis W, Middleton KM, King EG. 2019. The evolutionary potential of diet-dependent effects on lifespan and fecundity in a multi-parental population of Drosophila melanogaster. Heredity 122:582–594."
   },
   {
     "objectID": "publications.html#d-muscle-architecture",
     "href": "publications.html#d-muscle-architecture",
     "title": "Recent Publications",
     "section": "3D Muscle Architecture",
-    "text": "3D Muscle Architecture\n\n\n\n\n\n\nSullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architecture of the Pectoral Muscles of European Starling (Sturnus vulgaris). Integr Org Biol 1:oby010."
+    "text": "3D Muscle Architecture\n\n\n\nSullivan SP, McGechie FR, Middleton KM, Holliday CM. 2019. 3D Muscle Architecture of the Pectoral Muscles of European Starling (Sturnus vulgaris). Integr Org Biol 1:oby010."
   },
   {
     "objectID": "publications.html#cranial-kinesis-in-varanus-exanthematicus",
     "href": "publications.html#cranial-kinesis-in-varanus-exanthematicus",
     "title": "Recent Publications",
     "section": "Cranial kinesis in Varanus exanthematicus",
-    "text": "Cranial kinesis in Varanus exanthematicus\n\n\n\n\n\n\nWilken AT, Middleton KM, Sellers KC, Cost IN, Holliday CM. 2019. The roles of joint tissues and jaw muscles in palatal biomechanics of the Savannah monitor (Varanus exanthematicus) and their significance for cranial kinesis. J Exp Biol 222:1–14."
-  },
-  {
-    "objectID": "ride.html",
-    "href": "ride.html",
-    "title": "R.I.D.E.",
-    "section": "",
-    "text": "I would like to acknowledge that I work in what is colonially known as “Missouri,” and that these were the homelands of the tribal nations of the Nutachi (Missouria), Jiwere (Otoe), Wahzhazhe (Osage), Ogáxpa (Quapaw), Chikasha (Chickasaw), Illini, and Báxoǰe (Ioway), among others.\nFour core values of our lab are respect, inclusion, diversity, and equality."
-  },
-  {
-    "objectID": "ride.html#respect",
-    "href": "ride.html#respect",
-    "title": "R.I.D.E.",
-    "section": "Respect",
-    "text": "Respect\nWe expect lab members to contribute to a friendly and thus productive environment which promotes personal growth, learning, and research. We expect that everyone will treat their colleagues with respect, listen to others’ viewpoints and ideas, and ensure the lab is a place where everybody feels welcome and appreciated. Racist, sexist, or other inappropriate comments or behavior will not be tolerated under any circumstance."
-  },
-  {
-    "objectID": "ride.html#inclusion",
-    "href": "ride.html#inclusion",
-    "title": "R.I.D.E.",
-    "section": "Inclusion",
-    "text": "Inclusion\nWe believe that everyone has a place in biology regardless of race, gender, sexual orientation, gender identity, ethnicity, socioeconomic status, nationality , age, religious affiliation, physical abilities, learning disabilities, family and parental status, and veteran status."
-  },
-  {
-    "objectID": "ride.html#diversity",
-    "href": "ride.html#diversity",
-    "title": "R.I.D.E.",
-    "section": "Diversity",
-    "text": "Diversity\nWe believe that strength comes from diversity. All individual uniqueness provides opportunity for learning and growth. We commit to supporting each other in promoting a more diverse community of science."
-  },
-  {
-    "objectID": "ride.html#equality",
-    "href": "ride.html#equality",
-    "title": "R.I.D.E.",
-    "section": "Equality",
-    "text": "Equality\nWe believe in equal participation of all groups and that we should actively work against policies and procedures that have systematically excluded and marginalized groups. We take an anti-oppression and anti-racist mindset and will actively counter oppression at all levels."
+    "text": "Cranial kinesis in Varanus exanthematicus\n\n\n\nWilken AT, Middleton KM, Sellers KC, Cost IN, Holliday CM. 2019. The roles of joint tissues and jaw muscles in palatal biomechanics of the Savannah monitor (Varanus exanthematicus) and their significance for cranial kinesis. J Exp Biol 222:1–14."
   },
   {
     "objectID": "software.html",
@@ -319,14 +382,14 @@
     "href": "software.html#abd-analysis-of-biological-data",
     "title": "Software",
     "section": "abd: Analysis of Biological Data",
-    "text": "abd: Analysis of Biological Data\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter. This is an excellent textbook (now in its second edition, still remarkably inexpensive) for teaching advanced undergraduate and introductory graduate statistics. The new edition of this book has associated R code, mostly making this package redundant. But I still like having the datasets from the book handy. I use them for teaching and demos really often, like the distribution of counts of desert birds or hemoglobin levels in different populations.\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(DesertBirds, aes(count)) +\n  geom_histogram(bins = 30, fill = \"darkred\") +\n  labs(x = \"Count\", y = \"Number of Species\") +\n  cowplot::theme_cowplot()\n\n\n\n\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(Hemoglobin, aes(x = hemoglobin, y = relative.frequency)) +\n  geom_bar(stat = \"identity\", fill = \"darkred\") +\n  labs(x = \"Hemoglobin\", y = \"Relative Frequency\") +\n  facet_grid(group ~ .) +\n  cowplot::theme_cowplot()\n\n\n\n\n\nInstallation\nThe package can be installed via CRAN\n\ninstall.packages(\"abd\")\n\nor directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/abd\")\n\nWe have had a lot of dependency creep over the years, so the number of packages that get installed alongside abd can be quite large.\n\n\nabdData\nThe abd package has quite a few dependencies resulting from its use of the mosaic package.\nThe data from abd is arguably its most useful feature. A more streamlined version of abd with only the data is available via abdData, which can be installed with\n\nremotes::install_github(\"Middleton-Lab/abdData\")\n\nThe abdData user manual is available online."
+    "text": "abd: Analysis of Biological Data\nCollaborating with Randall Pruim (Calvin College), I co-developed an R package (abd) to accompany the first edition of The Analysis of Biological Data by Michael Whitlock and Dolph Schluter. This is an excellent textbook (now in its second edition, still remarkably inexpensive) for teaching advanced undergraduate and introductory graduate statistics. The new edition of this book has associated R code, mostly making this package redundant. But I still like having the datasets from the book handy. I use them for teaching and demos really often, like the distribution of counts of desert birds or hemoglobin levels in different populations.\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(DesertBirds, aes(count)) +\n  geom_histogram(bins = 30, fill = \"darkred\") +\n  labs(x = \"Count\", y = \"Number of Species\") +\n  cowplot::theme_cowplot()\n\n\n\n\n\n\n\n\n\nlibrary(ggplot2)\nlibrary(abd)\nggplot(Hemoglobin, aes(x = hemoglobin, y = relative.frequency)) +\n  geom_bar(stat = \"identity\", fill = \"darkred\") +\n  labs(x = \"Hemoglobin\", y = \"Relative Frequency\") +\n  facet_grid(group ~ .) +\n  cowplot::theme_cowplot()\n\n\n\n\n\n\n\n\n\nInstallation\nThe package can be installed via CRAN\n\ninstall.packages(\"abd\")\n\nor directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/abd\")\n\nWe have had a lot of dependency creep over the years, so the number of packages that get installed alongside abd can be quite large.\n\n\nabdData\nThe abd package has quite a few dependencies resulting from its use of the mosaic package.\nThe data from abd is arguably its most useful feature. A more streamlined version of abd with only the data is available via abdData, which can be installed with\n\nremotes::install_github(\"Middleton-Lab/abdData\")\n\nThe abdData user manual is available online."
   },
   {
     "objectID": "software.html#jnt-johnson-neyman-technique",
     "href": "software.html#jnt-johnson-neyman-technique",
     "title": "Software",
     "section": "jnt: Johnson-Neyman Technique",
-    "text": "jnt: Johnson-Neyman Technique\nThe Johnson-Neyman technique is used to determine the region of an analysis of covariance where the slopes are not significantly between the covariate. This allows the determination of bounds of a region of “equal” slope despite the presence of a “significant” slope (by whatever definition of “significant” you choose).\nWe used this approach in Lavin SR, Karasov WH, Ives AR, Middleton KM, Garland T Jr (2008) Morphometrics of the avian small intestine compared with that of nonflying mammals: A phylogenetic approach. Physiol Biochem Zool 81: 526-550.\n\nReferences\n\nJohnson PO and Neyman J (1936) Tests of certain linear hypotheses and their application to some educational problems. Statistical Research Memoirs 1: 57-93.\nHunka S and Leighton J (1997) Defining Johnson-Neyman regions of significance in three-covariate ANCOVA using Mathematica. Journal of Educational and Behavioral Statistics 22: 361-387.\nWhite CR (2003) The influence of foraging mode and arid adaptation on the basal metabolic rates of burrowing mammals. Physiol Biochem Zool 76: 122-134.\nWhite CR (2003) Allometric analysis beyond heterogenous regression slopes: Use of the Johnson-Neyman Technique in comparative biology. Physiol Biochem Zool 76: 135-140.\n\n\n\nDemo\n\nlibrary(jnt)\n\nLoading required package: smatr\n\nset.seed(1234)\n\nn <- 50\n\nx1 <- rnorm(n)\ny1 <- x1 + rnorm(n, sd = 0.2)\n\nx2 <- rnorm(n)\ny2 <- 1.25 * x2 + rnorm(n, sd = 0.2)\n\ndf1 <- data.frame(x = x1, y = y1)\ndf2 <- data.frame(x = x2, y = y2)\n\n(jnt.out <- jnt(df1, df2))\n\nFitting with OLS\n\n\nAssuming x variable is column 1, and y is column 2.\n\n\n\nJohnson-Neyman Technique\n\nAlpha =  0.05 \n\nData 1:\n    Slope        0.9853 \n    Intercept    0.02126 \n\nData 2:\n    Slope        1.182 \n    Intercept    0.01386 \n\nRegion of non-significant slope difference\n    Lower: -0.5258 \n    Upper: 0.8701 \n\nplot(jnt.out)\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\n\nInstallation\njnt can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/jnt\")"
+    "text": "jnt: Johnson-Neyman Technique\nThe Johnson-Neyman technique is used to determine the region of an analysis of covariance where the slopes are not significantly between the covariate. This allows the determination of bounds of a region of “equal” slope despite the presence of a “significant” slope (by whatever definition of “significant” you choose).\nWe used this approach in Lavin SR, Karasov WH, Ives AR, Middleton KM, Garland T Jr (2008) Morphometrics of the avian small intestine compared with that of nonflying mammals: A phylogenetic approach. Physiol Biochem Zool 81: 526-550.\n\nReferences\n\nJohnson PO and Neyman J (1936) Tests of certain linear hypotheses and their application to some educational problems. Statistical Research Memoirs 1: 57-93.\nHunka S and Leighton J (1997) Defining Johnson-Neyman regions of significance in three-covariate ANCOVA using Mathematica. Journal of Educational and Behavioral Statistics 22: 361-387.\nWhite CR (2003) The influence of foraging mode and arid adaptation on the basal metabolic rates of burrowing mammals. Physiol Biochem Zool 76: 122-134.\nWhite CR (2003) Allometric analysis beyond heterogenous regression slopes: Use of the Johnson-Neyman Technique in comparative biology. Physiol Biochem Zool 76: 135-140.\n\n\n\nDemo\n\nlibrary(jnt)\n\nLoading required package: smatr\n\nset.seed(1234)\n\nn &lt;- 50\n\nx1 &lt;- rnorm(n)\ny1 &lt;- x1 + rnorm(n, sd = 0.2)\n\nx2 &lt;- rnorm(n)\ny2 &lt;- 1.25 * x2 + rnorm(n, sd = 0.2)\n\ndf1 &lt;- data.frame(x = x1, y = y1)\ndf2 &lt;- data.frame(x = x2, y = y2)\n\n(jnt.out &lt;- jnt(df1, df2))\n\nFitting with OLS\n\n\nAssuming x variable is column 1, and y is column 2.\n\n\n\nJohnson-Neyman Technique\n\nAlpha =  0.05 \n\nData 1:\n    Slope        0.9853 \n    Intercept    0.02126 \n\nData 2:\n    Slope        1.182 \n    Intercept    0.01386 \n\nRegion of non-significant slope difference\n    Lower: -0.5258 \n    Upper: 0.8701 \n\nplot(jnt.out)\n\nWarning: `aes_string()` was deprecated in ggplot2 3.0.0.\nℹ Please use tidy evaluation idioms with `aes()`.\nℹ See also `vignette(\"ggplot2-in-packages\")` for more information.\nℹ The deprecated feature was likely used in the jnt package.\n  Please report the issue at &lt;https://github.com/Middleton-Lab/jnt/issues&gt;.\n\n\n`geom_smooth()` using formula = 'y ~ x'\n\n\n\n\n\n\n\n\n\n\n\nInstallation\njnt can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/jnt\")"
   },
   {
     "objectID": "software.html#muscleternary-ternary-plots-for-3d-data",
@@ -341,47 +404,5 @@
     "title": "Software",
     "section": "binning: Binning for mouse wheel activity data",
     "text": "binning: Binning for mouse wheel activity data\n\nInstallation\nbinning can be installed directly from GitHub:\n\nremotes::install_github(\"Middleton-Lab/binning\")"
-  },
-  {
-    "objectID": "people.html#kevin-middleton-hehim",
-    "href": "people.html#kevin-middleton-hehim",
-    "title": "People",
-    "section": "Kevin Middleton (he/him)",
-    "text": "Kevin Middleton (he/him)\n      \n\n\n\nI am an Associate Professor in the MU Division of Biological Sciences. My interests include Bayesian inference, Functional morphology, Biomechanics, and Statistical teaching. I’m an active member of the informal DataPhiles discussion group.\n\n\n\n\n\n\nPreviously I was a faculty member in the Department of Pathology and Anatomical Sciences in the University of Missouri School of Medicine. From 2007-2012, I was in the Department of Biology at California State University, San Bernardino. Prior to that I was a postdoctoral researcher at Brown University and the University of California, Riverside. In deep time, I was an undergraduate at Wake Forest University and then a doctoral student in the Department of Ecology and Evolutionary Biology at Brown University.\nIf you want to read about bird foot evolution, here’s a link to my dissertation: Morphology, evolution, and function of the avian hallux.\nI firmly believe in (a modified version of) Federico Ardila’s basic axioms:\n\nAxiom 1. Quantitative biology potential is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.\n\n\nAxiom 2. Everyone can have joyful, meaningful, and empowering quantitative biology experiences.\n\n\nAxiom 3. Quantitative biology is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.\n\n\nAxiom 4. Every student deserves to be treated with dignity and respect.\n\n\nGraduate Researchers\n\n\n\n\n\n\nInterested in graduate studies?\n\n\n\nIf you an interested in graduate study in the Division of Biological Sciences, send me an email .\n\n\n\n\nUndergraduate Researchers\n\nGabi Ramirez\n\n\n\n\nComputer Science, MARC Fellow\nDeep learning applications for the study of craniofacial growth\n\n\n\n\n\n\n\n\n\n\n\n\n\nInterested in undergraduate research?\n\n\n\nIf you an interested in undergraduate research, send me an email ."
-  },
-  {
-    "objectID": "people.html#lab-alumni",
-    "href": "people.html#lab-alumni",
-    "title": "People",
-    "section": "Lab Alumni",
-    "text": "Lab Alumni\n\nGraduate Researchers\n\nSarah Peacock\n\n\n\n\nEffects of light on bone phenotypes, Modern human variation, Human craniofacial morphology, Forensic anthropology\nPhD University of Missouri, 2019\nCurrently an Assistant Teaching Professor at Northeastern University\n\n\n\n\n\n\n\n\n\nAmanda Smolinsky\n\n\n\n\nSkeletal evolution, Locomotor evolution in vertebrates, Effects of loading on bone phenotypes, Functional morphology\nPhD University of Missouri, 2018\nCurrently an Assistant Teaching Professor at Rowan University School of Medicine\n\n\n\n\n\n\n\n\n\nBrittney Coats\n\n\n\n\nEnergy regulation, Inflammatory role of adipose tissue\nMS CSU San Bernardino 2012\nPhD University of Chicago\nCurrently at ITW David Speer Academy, Chicago, IL\n\n\n\n\n\n\n\n\n\nLauren English\n\n\n\n\n\nMorphometrics of pterosaurs\nMS CSU San Bernardino 2012\nPhD University of Texas at Austin\nCurrently a museum scientist at University of California, Riverside\n\n\n\n\n\n\nSusan Lujan\n\n\n\n\nEffects of atmospheric oxygen on growth in alligators\nMS CSU San Bernardino 2012\n\n\n\n\n\n\n\nUndergraduate Researchers\n\nAdam Albright (2021-2023)\n\nMechanisms of insect flight, Imaging and CT scanning, Genetics\nUniversity of Missouri, 2023\n\n\n\nJosh Fajardo (2020-2022)\n\nLocomotor biomechanics, machine learning, developing tools for studying mouse locomotion\nUniversity of Missouri, 2022\n\n\n\nMaddy LaChance (2020-2022)\n\nCranial morphology in mice, Geometric morphometrics\nMU Cherng Summer Scholar\nUniversity of Missouri, 2022\n\n\n\nKayla Robinson (2021-2022)\n\nMU DBS Honors Student\n\n\n\nAlec Wilken (2016-2019)\n\nPhD University of Chicago, 2026\n\n\n\nCaitlyn Smith (2016-2018)\n\nCurrently a student in the University of Missouri School of Medicine\n\n\n\nKendra Lewis (2018)\n\nMU School of Medicine Summer Research Intern from Washington University in St. Louis\n\n\n\nRebecca Meyer (2016-2018)\n\nCurrently in medical school at the Kentucky College of Medicine\n\n\n\nNick Bira (2014-2018)   \n\nC3 Hughes Research Fellow\nCompleted PhD at Oregon State University, 2022\n\n\n\nKyle Kirkland (2015)\n\nMU School of Medicine Summer Research Intern from Michigan State University\n\n\n\nMichael Sojka (2014-2015)  \n\nC3 Hughes Research Fellow, MU School of Journalism\n\n\n\nTarrin Casey, MD (2014)\n\nMD University of Missouri School of Medicine\n\n\n\nDiana Salas (2013)\n\nMU School of Medicine Summer Research Intern from Indiana University"
-  },
-  {
-    "objectID": "publications.html#evolution-of-the-avian-skull",
-    "href": "publications.html#evolution-of-the-avian-skull",
-    "title": "Recent Publications",
-    "section": "Evolution of the avian skull",
-    "text": "Evolution of the avian skull\n\n\n\n\n\n\nWilken, AT, KC Sellers, IN Cost, J Davis, KM Middleton, LM Witmer, and CM Holliday. 2025. Avian cranial kinesis is the result of increased encephalization during the origin of birds. Proc. Natl. Acad. Sci. U. S. A. 122:e2411138122."
-  },
-  {
-    "objectID": "publications.html#interobserver-variation-in-musculoskeletal-modeling",
-    "href": "publications.html#interobserver-variation-in-musculoskeletal-modeling",
-    "title": "Recent Publications",
-    "section": "Interobserver variation in musculoskeletal modeling",
-    "text": "Interobserver variation in musculoskeletal modeling\n\n\n\n\n\n\nLagorio, AD, FR McGechie, MG Fields, J Fortner, E Mackereth, C Perez, AT Wilken, M Leal, CV Ward, KM Middleton, and CM Holliday. 2024. Computational approaches and observer variation in the 3D musculoskeletal modeling of the heads of Anolis. Integr. Org. Biol. 6:obae009."
-  },
-  {
-    "objectID": "publications.html#genetic-variants-impacting-thermal-tolerance-in-drosophila",
-    "href": "publications.html#genetic-variants-impacting-thermal-tolerance-in-drosophila",
-    "title": "Recent Publications",
-    "section": "Genetic variants impacting thermal tolerance in Drosophila",
-    "text": "Genetic variants impacting thermal tolerance in Drosophila\n\n\n\n\n\n\nWilliams-Simon, PA, C Oster, JA Moaton, R Ghidey, E Ng’oma, KM Middleton, and EG King. 2024. Naturally segregating genetic variants contribute to thermal tolerance in a Drosophila melanogaster model system. Genetics, doi: 10.1093/genetics/iyae040."
-  },
-  {
-    "objectID": "publications.html#using-cross-sectional-data-to-predict-craniofacial-growth",
-    "href": "publications.html#using-cross-sectional-data-to-predict-craniofacial-growth",
-    "title": "Recent Publications",
-    "section": "Using cross-sectional data to predict craniofacial growth",
-    "text": "Using cross-sectional data to predict craniofacial growth\n\n\n\n\n\n\nMiddleton, KM, DL Duren, KP McNulty, H Oh, M Valiathan, and RJ Sherwood. 2023. Cross-sectional data accurately model longitudinal growth in the craniofacial skeleton. Sci. Rep. 13:19294."
   }
 ]
